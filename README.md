@@ -13,7 +13,6 @@
 [![Netlify](https://img.shields.io/badge/Netlify-Deployed-00C7B7?logo=netlify&logoColor=white)](https://www.netlify.com/)
 
 **Live application:** https://senvu-customer-intelligence-ai-evals.netlify.app  
-**Interactive sandbox:** https://senvu-customer-intelligence-ai-evals.netlify.app/demo
 
 </div>
 
