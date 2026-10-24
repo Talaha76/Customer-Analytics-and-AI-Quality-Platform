@@ -1,0 +1,2 @@
+# Current State Audit
+The legacy repository contains a CSV -> cleaning/sentiment -> PostgreSQL -> Streamlit flow. It uses custom trigger rules plus VADER, has a manually labeled 50-review sample, disagreement tracking, and accuracy history. The recorded 96% figure must be described only as **96% accuracy on a 50-review manually labeled evaluation set** (48/50), not as performance across the full dataset.

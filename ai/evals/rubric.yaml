@@ -1,0 +1,9 @@
+version: v1
+scale: "0-2"
+dimensions:
+  sentiment_correctness: {0: incorrect, 1: partially_correct, 2: correct}
+  extraction_quality: {0: fabricated_or_missed, 1: partial, 2: grounded_and_complete}
+  grounding: {0: unsupported, 1: minor_inference, 2: fully_grounded}
+  recommendation_quality: {0: irrelevant, 1: plausible_but_weak, 2: specific_useful_supported}
+  hallucination_control: {0: significant_hallucination, 1: minor_unsupported_addition, 2: no_hallucination}
+pass_threshold: 0.70

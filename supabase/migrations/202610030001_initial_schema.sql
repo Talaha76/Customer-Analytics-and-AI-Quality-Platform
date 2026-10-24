@@ -1,0 +1,14 @@
+create extension if not exists pgcrypto;
+create table if not exists organizations (id uuid primary key default gen_random_uuid(), name text not null, created_at timestamptz default now());
+create table if not exists products (id uuid primary key default gen_random_uuid(), organization_id uuid not null references organizations(id) on delete cascade, name text not null, category text, created_at timestamptz default now());
+create table if not exists datasets (id uuid primary key default gen_random_uuid(), product_id uuid not null references products(id) on delete cascade, filename text not null, source_type text, uploaded_at timestamptz default now());
+create table if not exists feedback (id uuid primary key default gen_random_uuid(), dataset_id uuid references datasets(id) on delete cascade, external_id text, text text not null, rating numeric, source text, created_at timestamptz, metadata jsonb default '{}'::jsonb);
+create table if not exists analyses (id uuid primary key default gen_random_uuid(), feedback_id uuid not null references feedback(id) on delete cascade, model_name text not null, prompt_version text, sentiment text, topics jsonb default '[]'::jsonb, pain_points jsonb default '[]'::jsonb, feature_requests jsonb default '[]'::jsonb, severity text, churn_signal text, recommendation text, latency_ms numeric, estimated_cost numeric default 0, created_at timestamptz default now());
+create table if not exists human_labels (id uuid primary key default gen_random_uuid(), feedback_id uuid not null references feedback(id) on delete cascade, reviewer_label text, corrected_sentiment text, corrected_topics jsonb default '[]'::jsonb, notes text, created_at timestamptz default now());
+create table if not exists eval_test_cases (id text primary key, name text not null, failure_mode text not null, input_text text not null, expected_output jsonb not null, rubric_version text not null, active boolean default true);
+create table if not exists eval_runs (id uuid primary key default gen_random_uuid(), model_name text not null, prompt_version text, rubric_version text, started_at timestamptz default now(), completed_at timestamptz);
+create table if not exists eval_scores (id uuid primary key default gen_random_uuid(), eval_run_id uuid not null references eval_runs(id) on delete cascade, test_case_id text not null references eval_test_cases(id), score_total numeric, sentiment_score numeric, extraction_score numeric, grounding_score numeric, hallucination_score numeric, recommendation_score numeric, latency_ms numeric, cost numeric default 0);
+create index if not exists idx_products_org on products(organization_id);
+create index if not exists idx_feedback_dataset on feedback(dataset_id);
+create index if not exists idx_analyses_feedback on analyses(feedback_id);
+create index if not exists idx_eval_scores_run on eval_scores(eval_run_id);

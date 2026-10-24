@@ -1,0 +1,3 @@
+timestamp,run,accuracy,labeled_rows,updates
+2025-08-31T16:49:35,1,0.96,50,2
+2025-08-31T16:51:06,2,0.96,50,2

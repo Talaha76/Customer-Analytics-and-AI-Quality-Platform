@@ -1,0 +1,401 @@
+id,review,rating,source,created_at
+nova-0001,NovaWatch: Battery drains fast and I am disappointed.,1,app_store,2026-06-01T00:00:00
+nova-0002,NovaWatch: I wish it had an offline mode.,3,web,2026-06-02T00:00:00
+nova-0003,NovaWatch: Setup was easy and smooth.,5,web,2026-06-03T00:00:00
+nova-0004,NovaWatch: Bluetooth disconnects sometimes.,5,app_store,2026-06-04T00:00:00
+nova-0005,NovaWatch: Battery drains fast and I am disappointed.,1,web,2026-06-05T00:00:00
+nova-0006,"NovaWatch: Works as expected, nothing special.",1,web,2026-06-06T00:00:00
+nova-0007,NovaWatch: I wish it had an offline mode.,4,app_store,2026-06-07T00:00:00
+nova-0008,NovaWatch: Battery drains fast and I am disappointed.,3,support,2026-06-08T00:00:00
+nova-0009,NovaWatch: Excellent quality and very reliable.,3,web,2026-06-09T00:00:00
+nova-0010,NovaWatch: Setup was easy and smooth.,5,app_store,2026-06-10T00:00:00
+nova-0011,NovaWatch: Excellent quality and very reliable.,1,app_store,2026-06-11T00:00:00
+nova-0012,NovaWatch: Setup was easy and smooth.,4,support,2026-06-12T00:00:00
+nova-0013,NovaWatch: Setup was easy and smooth.,2,web,2026-06-13T00:00:00
+nova-0014,"NovaWatch: Works as expected, nothing special.",4,app_store,2026-06-14T00:00:00
+nova-0015,NovaWatch: Bluetooth disconnects sometimes.,5,support,2026-06-15T00:00:00
+nova-0016,NovaWatch: Battery drains fast and I am disappointed.,3,app_store,2026-06-16T00:00:00
+nova-0017,"NovaWatch: Works as expected, nothing special.",2,app_store,2026-06-17T00:00:00
+nova-0018,NovaWatch: Bluetooth disconnects sometimes.,1,app_store,2026-06-18T00:00:00
+nova-0019,NovaWatch: Excellent quality and very reliable.,1,support,2026-06-19T00:00:00
+nova-0020,"NovaWatch: Works as expected, nothing special.",4,web,2026-06-20T00:00:00
+nova-0021,NovaWatch: Excellent quality and very reliable.,5,support,2026-06-21T00:00:00
+nova-0022,NovaWatch: Bluetooth disconnects sometimes.,1,support,2026-06-22T00:00:00
+nova-0023,NovaWatch: Excellent quality and very reliable.,3,web,2026-06-23T00:00:00
+nova-0024,NovaWatch: Setup was easy and smooth.,2,support,2026-06-24T00:00:00
+nova-0025,NovaWatch: Excellent quality and very reliable.,5,web,2026-06-25T00:00:00
+nova-0026,NovaWatch: Battery drains fast and I am disappointed.,4,app_store,2026-06-26T00:00:00
+nova-0027,"NovaWatch: Works as expected, nothing special.",2,support,2026-06-27T00:00:00
+nova-0028,NovaWatch: Battery drains fast and I am disappointed.,2,app_store,2026-06-28T00:00:00
+nova-0029,"NovaWatch: Works as expected, nothing special.",3,app_store,2026-06-29T00:00:00
+nova-0030,NovaWatch: Setup was easy and smooth.,1,app_store,2026-06-30T00:00:00
+nova-0031,"NovaWatch: Works as expected, nothing special.",5,support,2026-07-01T00:00:00
+nova-0032,NovaWatch: I wish it had an offline mode.,4,app_store,2026-07-02T00:00:00
+nova-0033,NovaWatch: Excellent quality and very reliable.,2,web,2026-07-03T00:00:00
+nova-0034,NovaWatch: Excellent quality and very reliable.,2,support,2026-07-04T00:00:00
+nova-0035,NovaWatch: I wish it had an offline mode.,3,support,2026-07-05T00:00:00
+nova-0036,NovaWatch: Setup was easy and smooth.,4,support,2026-07-06T00:00:00
+nova-0037,NovaWatch: Excellent quality and very reliable.,4,web,2026-07-07T00:00:00
+nova-0038,"NovaWatch: Works as expected, nothing special.",3,web,2026-07-08T00:00:00
+nova-0039,NovaWatch: Excellent quality and very reliable.,3,web,2026-07-09T00:00:00
+nova-0040,NovaWatch: Bluetooth disconnects sometimes.,2,web,2026-07-10T00:00:00
+nova-0041,NovaWatch: Battery drains fast and I am disappointed.,2,support,2026-07-11T00:00:00
+nova-0042,NovaWatch: Excellent quality and very reliable.,4,support,2026-07-12T00:00:00
+nova-0043,NovaWatch: Battery drains fast and I am disappointed.,1,app_store,2026-07-13T00:00:00
+nova-0044,NovaWatch: Battery drains fast and I am disappointed.,1,support,2026-07-14T00:00:00
+nova-0045,"NovaWatch: Works as expected, nothing special.",2,web,2026-07-15T00:00:00
+nova-0046,NovaWatch: Excellent quality and very reliable.,4,app_store,2026-07-16T00:00:00
+nova-0047,NovaWatch: I wish it had an offline mode.,1,web,2026-07-17T00:00:00
+nova-0048,"NovaWatch: Works as expected, nothing special.",3,app_store,2026-07-18T00:00:00
+nova-0049,NovaWatch: Bluetooth disconnects sometimes.,1,support,2026-07-19T00:00:00
+nova-0050,"NovaWatch: Works as expected, nothing special.",2,web,2026-07-20T00:00:00
+nova-0051,NovaWatch: Battery drains fast and I am disappointed.,1,app_store,2026-07-21T00:00:00
+nova-0052,NovaWatch: I wish it had an offline mode.,4,support,2026-07-22T00:00:00
+nova-0053,NovaWatch: Battery drains fast and I am disappointed.,4,app_store,2026-07-23T00:00:00
+nova-0054,"NovaWatch: Works as expected, nothing special.",4,web,2026-07-24T00:00:00
+nova-0055,NovaWatch: Battery drains fast and I am disappointed.,2,app_store,2026-07-25T00:00:00
+nova-0056,"NovaWatch: Works as expected, nothing special.",5,web,2026-07-26T00:00:00
+nova-0057,"NovaWatch: Works as expected, nothing special.",2,web,2026-07-27T00:00:00
+nova-0058,NovaWatch: Bluetooth disconnects sometimes.,1,web,2026-07-28T00:00:00
+nova-0059,NovaWatch: Bluetooth disconnects sometimes.,4,app_store,2026-07-29T00:00:00
+nova-0060,NovaWatch: Battery drains fast and I am disappointed.,5,app_store,2026-07-30T00:00:00
+nova-0061,NovaWatch: I wish it had an offline mode.,2,support,2026-07-31T00:00:00
+nova-0062,NovaWatch: Bluetooth disconnects sometimes.,3,app_store,2026-08-01T00:00:00
+nova-0063,"NovaWatch: Works as expected, nothing special.",2,web,2026-08-02T00:00:00
+nova-0064,NovaWatch: Bluetooth disconnects sometimes.,3,app_store,2026-08-03T00:00:00
+nova-0065,NovaWatch: Battery drains fast and I am disappointed.,1,web,2026-08-04T00:00:00
+nova-0066,"NovaWatch: Works as expected, nothing special.",4,app_store,2026-08-05T00:00:00
+nova-0067,NovaWatch: Excellent quality and very reliable.,3,app_store,2026-08-06T00:00:00
+nova-0068,NovaWatch: I wish it had an offline mode.,1,web,2026-08-07T00:00:00
+nova-0069,NovaWatch: Setup was easy and smooth.,3,support,2026-08-08T00:00:00
+nova-0070,NovaWatch: Battery drains fast and I am disappointed.,4,app_store,2026-08-09T00:00:00
+nova-0071,NovaWatch: Setup was easy and smooth.,3,app_store,2026-08-10T00:00:00
+nova-0072,"NovaWatch: Works as expected, nothing special.",4,app_store,2026-08-11T00:00:00
+nova-0073,NovaWatch: Bluetooth disconnects sometimes.,2,web,2026-08-12T00:00:00
+nova-0074,NovaWatch: Setup was easy and smooth.,2,app_store,2026-08-13T00:00:00
+nova-0075,NovaWatch: Battery drains fast and I am disappointed.,5,app_store,2026-08-14T00:00:00
+nova-0076,NovaWatch: I wish it had an offline mode.,2,app_store,2026-08-15T00:00:00
+nova-0077,NovaWatch: Setup was easy and smooth.,1,app_store,2026-08-16T00:00:00
+nova-0078,NovaWatch: Setup was easy and smooth.,4,web,2026-08-17T00:00:00
+nova-0079,NovaWatch: Battery drains fast and I am disappointed.,2,app_store,2026-08-18T00:00:00
+nova-0080,NovaWatch: Setup was easy and smooth.,2,support,2026-08-19T00:00:00
+nova-0081,"NovaWatch: Works as expected, nothing special.",2,app_store,2026-08-20T00:00:00
+nova-0082,NovaWatch: Excellent quality and very reliable.,5,web,2026-08-21T00:00:00
+nova-0083,NovaWatch: I wish it had an offline mode.,1,support,2026-08-22T00:00:00
+nova-0084,"NovaWatch: Works as expected, nothing special.",3,web,2026-08-23T00:00:00
+nova-0085,NovaWatch: I wish it had an offline mode.,4,app_store,2026-08-24T00:00:00
+nova-0086,NovaWatch: Excellent quality and very reliable.,4,web,2026-08-25T00:00:00
+nova-0087,NovaWatch: Battery drains fast and I am disappointed.,3,app_store,2026-08-26T00:00:00
+nova-0088,NovaWatch: Battery drains fast and I am disappointed.,5,web,2026-08-27T00:00:00
+nova-0089,NovaWatch: Excellent quality and very reliable.,2,support,2026-08-28T00:00:00
+nova-0090,"NovaWatch: Works as expected, nothing special.",5,support,2026-08-29T00:00:00
+nova-0091,NovaWatch: Excellent quality and very reliable.,3,support,2026-08-30T00:00:00
+nova-0092,NovaWatch: Bluetooth disconnects sometimes.,5,app_store,2026-08-31T00:00:00
+nova-0093,NovaWatch: Excellent quality and very reliable.,3,support,2026-09-01T00:00:00
+nova-0094,NovaWatch: Battery drains fast and I am disappointed.,3,support,2026-09-02T00:00:00
+nova-0095,NovaWatch: Bluetooth disconnects sometimes.,5,app_store,2026-09-03T00:00:00
+nova-0096,"NovaWatch: Works as expected, nothing special.",1,support,2026-09-04T00:00:00
+nova-0097,NovaWatch: Bluetooth disconnects sometimes.,4,support,2026-09-05T00:00:00
+nova-0098,NovaWatch: Excellent quality and very reliable.,5,support,2026-09-06T00:00:00
+nova-0099,NovaWatch: Battery drains fast and I am disappointed.,1,app_store,2026-09-07T00:00:00
+nova-0100,NovaWatch: Excellent quality and very reliable.,2,support,2026-09-08T00:00:00
+nova-0101,NovaWatch: Battery drains fast and I am disappointed.,2,app_store,2026-09-09T00:00:00
+nova-0102,"NovaWatch: Works as expected, nothing special.",3,support,2026-09-10T00:00:00
+nova-0103,NovaWatch: Excellent quality and very reliable.,1,app_store,2026-09-11T00:00:00
+nova-0104,NovaWatch: I wish it had an offline mode.,2,web,2026-09-12T00:00:00
+nova-0105,NovaWatch: Excellent quality and very reliable.,5,support,2026-09-13T00:00:00
+nova-0106,NovaWatch: Setup was easy and smooth.,4,support,2026-09-14T00:00:00
+nova-0107,NovaWatch: Battery drains fast and I am disappointed.,4,app_store,2026-09-15T00:00:00
+nova-0108,"NovaWatch: Works as expected, nothing special.",1,support,2026-09-16T00:00:00
+nova-0109,NovaWatch: Battery drains fast and I am disappointed.,1,web,2026-09-17T00:00:00
+nova-0110,NovaWatch: Excellent quality and very reliable.,4,web,2026-09-18T00:00:00
+nova-0111,NovaWatch: Setup was easy and smooth.,5,web,2026-09-19T00:00:00
+nova-0112,NovaWatch: Excellent quality and very reliable.,1,app_store,2026-09-20T00:00:00
+nova-0113,NovaWatch: Bluetooth disconnects sometimes.,2,support,2026-09-21T00:00:00
+nova-0114,NovaWatch: Setup was easy and smooth.,2,app_store,2026-09-22T00:00:00
+nova-0115,NovaWatch: Battery drains fast and I am disappointed.,5,web,2026-09-23T00:00:00
+nova-0116,NovaWatch: I wish it had an offline mode.,4,app_store,2026-09-24T00:00:00
+nova-0117,NovaWatch: Excellent quality and very reliable.,4,support,2026-09-25T00:00:00
+nova-0118,NovaWatch: Bluetooth disconnects sometimes.,5,support,2026-09-26T00:00:00
+nova-0119,NovaWatch: Setup was easy and smooth.,1,web,2026-09-27T00:00:00
+nova-0120,NovaWatch: Excellent quality and very reliable.,3,web,2026-09-28T00:00:00
+nova-0121,NovaWatch: Bluetooth disconnects sometimes.,2,web,2026-06-01T00:00:00
+nova-0122,NovaWatch: I wish it had an offline mode.,4,support,2026-06-02T00:00:00
+nova-0123,"NovaWatch: Works as expected, nothing special.",4,support,2026-06-03T00:00:00
+nova-0124,NovaWatch: Excellent quality and very reliable.,3,support,2026-06-04T00:00:00
+nova-0125,NovaWatch: Battery drains fast and I am disappointed.,3,app_store,2026-06-05T00:00:00
+nova-0126,NovaWatch: Bluetooth disconnects sometimes.,1,web,2026-06-06T00:00:00
+nova-0127,NovaWatch: Excellent quality and very reliable.,5,app_store,2026-06-07T00:00:00
+nova-0128,NovaWatch: Excellent quality and very reliable.,3,web,2026-06-08T00:00:00
+nova-0129,NovaWatch: Battery drains fast and I am disappointed.,5,support,2026-06-09T00:00:00
+nova-0130,NovaWatch: Excellent quality and very reliable.,2,app_store,2026-06-10T00:00:00
+nova-0131,NovaWatch: Bluetooth disconnects sometimes.,4,web,2026-06-11T00:00:00
+nova-0132,NovaWatch: I wish it had an offline mode.,1,app_store,2026-06-12T00:00:00
+nova-0133,NovaWatch: Excellent quality and very reliable.,5,web,2026-06-13T00:00:00
+nova-0134,NovaWatch: I wish it had an offline mode.,5,web,2026-06-14T00:00:00
+nova-0135,NovaWatch: I wish it had an offline mode.,5,app_store,2026-06-15T00:00:00
+nova-0136,NovaWatch: Setup was easy and smooth.,1,web,2026-06-16T00:00:00
+nova-0137,NovaWatch: Excellent quality and very reliable.,5,app_store,2026-06-17T00:00:00
+nova-0138,NovaWatch: Bluetooth disconnects sometimes.,2,app_store,2026-06-18T00:00:00
+nova-0139,"NovaWatch: Works as expected, nothing special.",1,web,2026-06-19T00:00:00
+nova-0140,"NovaWatch: Works as expected, nothing special.",2,app_store,2026-06-20T00:00:00
+nova-0141,NovaWatch: Excellent quality and very reliable.,5,support,2026-06-21T00:00:00
+nova-0142,"NovaWatch: Works as expected, nothing special.",1,web,2026-06-22T00:00:00
+nova-0143,NovaWatch: Setup was easy and smooth.,5,app_store,2026-06-23T00:00:00
+nova-0144,NovaWatch: Bluetooth disconnects sometimes.,1,support,2026-06-24T00:00:00
+nova-0145,NovaWatch: Battery drains fast and I am disappointed.,3,web,2026-06-25T00:00:00
+nova-0146,NovaWatch: Setup was easy and smooth.,3,web,2026-06-26T00:00:00
+nova-0147,NovaWatch: Battery drains fast and I am disappointed.,1,support,2026-06-27T00:00:00
+nova-0148,NovaWatch: Setup was easy and smooth.,3,web,2026-06-28T00:00:00
+nova-0149,NovaWatch: Setup was easy and smooth.,5,app_store,2026-06-29T00:00:00
+nova-0150,NovaWatch: I wish it had an offline mode.,4,app_store,2026-06-30T00:00:00
+nova-0151,NovaWatch: Setup was easy and smooth.,3,web,2026-07-01T00:00:00
+nova-0152,NovaWatch: Setup was easy and smooth.,3,support,2026-07-02T00:00:00
+nova-0153,NovaWatch: Bluetooth disconnects sometimes.,4,web,2026-07-03T00:00:00
+nova-0154,NovaWatch: Excellent quality and very reliable.,2,web,2026-07-04T00:00:00
+nova-0155,NovaWatch: Battery drains fast and I am disappointed.,2,support,2026-07-05T00:00:00
+nova-0156,NovaWatch: Setup was easy and smooth.,4,support,2026-07-06T00:00:00
+nova-0157,NovaWatch: Bluetooth disconnects sometimes.,1,web,2026-07-07T00:00:00
+nova-0158,NovaWatch: Battery drains fast and I am disappointed.,2,web,2026-07-08T00:00:00
+nova-0159,NovaWatch: Setup was easy and smooth.,3,web,2026-07-09T00:00:00
+nova-0160,"NovaWatch: Works as expected, nothing special.",3,app_store,2026-07-10T00:00:00
+nova-0161,"NovaWatch: Works as expected, nothing special.",1,app_store,2026-07-11T00:00:00
+nova-0162,NovaWatch: Battery drains fast and I am disappointed.,5,app_store,2026-07-12T00:00:00
+nova-0163,NovaWatch: Setup was easy and smooth.,3,web,2026-07-13T00:00:00
+nova-0164,NovaWatch: I wish it had an offline mode.,1,support,2026-07-14T00:00:00
+nova-0165,NovaWatch: Bluetooth disconnects sometimes.,4,web,2026-07-15T00:00:00
+nova-0166,NovaWatch: I wish it had an offline mode.,1,support,2026-07-16T00:00:00
+nova-0167,NovaWatch: Battery drains fast and I am disappointed.,2,web,2026-07-17T00:00:00
+nova-0168,"NovaWatch: Works as expected, nothing special.",3,app_store,2026-07-18T00:00:00
+nova-0169,NovaWatch: I wish it had an offline mode.,2,support,2026-07-19T00:00:00
+nova-0170,NovaWatch: Setup was easy and smooth.,3,support,2026-07-20T00:00:00
+nova-0171,NovaWatch: Excellent quality and very reliable.,4,web,2026-07-21T00:00:00
+nova-0172,NovaWatch: I wish it had an offline mode.,2,web,2026-07-22T00:00:00
+nova-0173,NovaWatch: Excellent quality and very reliable.,1,web,2026-07-23T00:00:00
+nova-0174,NovaWatch: Setup was easy and smooth.,5,app_store,2026-07-24T00:00:00
+nova-0175,NovaWatch: Bluetooth disconnects sometimes.,4,support,2026-07-25T00:00:00
+nova-0176,NovaWatch: Battery drains fast and I am disappointed.,4,web,2026-07-26T00:00:00
+nova-0177,NovaWatch: Setup was easy and smooth.,5,app_store,2026-07-27T00:00:00
+nova-0178,NovaWatch: Bluetooth disconnects sometimes.,4,support,2026-07-28T00:00:00
+nova-0179,NovaWatch: Bluetooth disconnects sometimes.,3,support,2026-07-29T00:00:00
+nova-0180,"NovaWatch: Works as expected, nothing special.",3,web,2026-07-30T00:00:00
+nova-0181,NovaWatch: Bluetooth disconnects sometimes.,5,support,2026-07-31T00:00:00
+nova-0182,NovaWatch: Setup was easy and smooth.,4,support,2026-08-01T00:00:00
+nova-0183,"NovaWatch: Works as expected, nothing special.",1,support,2026-08-02T00:00:00
+nova-0184,NovaWatch: Bluetooth disconnects sometimes.,4,web,2026-08-03T00:00:00
+nova-0185,"NovaWatch: Works as expected, nothing special.",2,support,2026-08-04T00:00:00
+nova-0186,"NovaWatch: Works as expected, nothing special.",2,web,2026-08-05T00:00:00
+nova-0187,NovaWatch: Setup was easy and smooth.,4,support,2026-08-06T00:00:00
+nova-0188,NovaWatch: Battery drains fast and I am disappointed.,1,web,2026-08-07T00:00:00
+nova-0189,"NovaWatch: Works as expected, nothing special.",5,app_store,2026-08-08T00:00:00
+nova-0190,"NovaWatch: Works as expected, nothing special.",2,web,2026-08-09T00:00:00
+nova-0191,NovaWatch: Excellent quality and very reliable.,1,app_store,2026-08-10T00:00:00
+nova-0192,"NovaWatch: Works as expected, nothing special.",5,web,2026-08-11T00:00:00
+nova-0193,"NovaWatch: Works as expected, nothing special.",5,web,2026-08-12T00:00:00
+nova-0194,NovaWatch: Setup was easy and smooth.,5,web,2026-08-13T00:00:00
+nova-0195,NovaWatch: Setup was easy and smooth.,5,support,2026-08-14T00:00:00
+nova-0196,NovaWatch: I wish it had an offline mode.,4,web,2026-08-15T00:00:00
+nova-0197,NovaWatch: Bluetooth disconnects sometimes.,3,app_store,2026-08-16T00:00:00
+nova-0198,NovaWatch: Setup was easy and smooth.,3,web,2026-08-17T00:00:00
+nova-0199,NovaWatch: Excellent quality and very reliable.,1,support,2026-08-18T00:00:00
+nova-0200,NovaWatch: Battery drains fast and I am disappointed.,1,web,2026-08-19T00:00:00
+nova-0201,"NovaWatch: Works as expected, nothing special.",5,web,2026-08-20T00:00:00
+nova-0202,NovaWatch: I wish it had an offline mode.,5,support,2026-08-21T00:00:00
+nova-0203,NovaWatch: Battery drains fast and I am disappointed.,2,web,2026-08-22T00:00:00
+nova-0204,NovaWatch: Bluetooth disconnects sometimes.,4,web,2026-08-23T00:00:00
+nova-0205,NovaWatch: Setup was easy and smooth.,5,web,2026-08-24T00:00:00
+nova-0206,NovaWatch: I wish it had an offline mode.,5,support,2026-08-25T00:00:00
+nova-0207,NovaWatch: Excellent quality and very reliable.,2,web,2026-08-26T00:00:00
+nova-0208,"NovaWatch: Works as expected, nothing special.",3,app_store,2026-08-27T00:00:00
+nova-0209,"NovaWatch: Works as expected, nothing special.",5,app_store,2026-08-28T00:00:00
+nova-0210,NovaWatch: Excellent quality and very reliable.,3,support,2026-08-29T00:00:00
+nova-0211,"NovaWatch: Works as expected, nothing special.",5,web,2026-08-30T00:00:00
+nova-0212,NovaWatch: I wish it had an offline mode.,2,support,2026-08-31T00:00:00
+nova-0213,"NovaWatch: Works as expected, nothing special.",5,app_store,2026-09-01T00:00:00
+nova-0214,NovaWatch: Setup was easy and smooth.,2,web,2026-09-02T00:00:00
+nova-0215,NovaWatch: Battery drains fast and I am disappointed.,1,support,2026-09-03T00:00:00
+nova-0216,NovaWatch: Setup was easy and smooth.,5,app_store,2026-09-04T00:00:00
+nova-0217,"NovaWatch: Works as expected, nothing special.",5,support,2026-09-05T00:00:00
+nova-0218,NovaWatch: I wish it had an offline mode.,1,support,2026-09-06T00:00:00
+nova-0219,NovaWatch: Bluetooth disconnects sometimes.,1,app_store,2026-09-07T00:00:00
+nova-0220,"NovaWatch: Works as expected, nothing special.",5,app_store,2026-09-08T00:00:00
+nova-0221,"NovaWatch: Works as expected, nothing special.",4,app_store,2026-09-09T00:00:00
+nova-0222,NovaWatch: Setup was easy and smooth.,1,support,2026-09-10T00:00:00
+nova-0223,NovaWatch: Excellent quality and very reliable.,2,app_store,2026-09-11T00:00:00
+nova-0224,NovaWatch: Bluetooth disconnects sometimes.,5,support,2026-09-12T00:00:00
+nova-0225,"NovaWatch: Works as expected, nothing special.",5,support,2026-09-13T00:00:00
+nova-0226,NovaWatch: Battery drains fast and I am disappointed.,5,app_store,2026-09-14T00:00:00
+nova-0227,NovaWatch: Bluetooth disconnects sometimes.,5,app_store,2026-09-15T00:00:00
+nova-0228,NovaWatch: Battery drains fast and I am disappointed.,2,support,2026-09-16T00:00:00
+nova-0229,NovaWatch: Setup was easy and smooth.,1,app_store,2026-09-17T00:00:00
+nova-0230,NovaWatch: Excellent quality and very reliable.,1,app_store,2026-09-18T00:00:00
+nova-0231,NovaWatch: Setup was easy and smooth.,4,web,2026-09-19T00:00:00
+nova-0232,NovaWatch: Setup was easy and smooth.,4,app_store,2026-09-20T00:00:00
+nova-0233,NovaWatch: I wish it had an offline mode.,1,support,2026-09-21T00:00:00
+nova-0234,NovaWatch: Setup was easy and smooth.,3,app_store,2026-09-22T00:00:00
+nova-0235,NovaWatch: I wish it had an offline mode.,2,web,2026-09-23T00:00:00
+nova-0236,"NovaWatch: Works as expected, nothing special.",2,app_store,2026-09-24T00:00:00
+nova-0237,"NovaWatch: Works as expected, nothing special.",1,support,2026-09-25T00:00:00
+nova-0238,NovaWatch: Excellent quality and very reliable.,3,app_store,2026-09-26T00:00:00
+nova-0239,NovaWatch: Bluetooth disconnects sometimes.,5,web,2026-09-27T00:00:00
+nova-0240,NovaWatch: Excellent quality and very reliable.,1,app_store,2026-09-28T00:00:00
+nova-0241,NovaWatch: Bluetooth disconnects sometimes.,5,app_store,2026-06-01T00:00:00
+nova-0242,NovaWatch: Bluetooth disconnects sometimes.,1,support,2026-06-02T00:00:00
+nova-0243,NovaWatch: Battery drains fast and I am disappointed.,2,app_store,2026-06-03T00:00:00
+nova-0244,NovaWatch: Excellent quality and very reliable.,2,support,2026-06-04T00:00:00
+nova-0245,NovaWatch: Battery drains fast and I am disappointed.,3,app_store,2026-06-05T00:00:00
+nova-0246,NovaWatch: Bluetooth disconnects sometimes.,3,web,2026-06-06T00:00:00
+nova-0247,NovaWatch: Setup was easy and smooth.,3,web,2026-06-07T00:00:00
+nova-0248,NovaWatch: Excellent quality and very reliable.,2,support,2026-06-08T00:00:00
+nova-0249,NovaWatch: Bluetooth disconnects sometimes.,5,app_store,2026-06-09T00:00:00
+nova-0250,NovaWatch: Bluetooth disconnects sometimes.,3,web,2026-06-10T00:00:00
+nova-0251,NovaWatch: I wish it had an offline mode.,4,app_store,2026-06-11T00:00:00
+nova-0252,NovaWatch: Battery drains fast and I am disappointed.,1,app_store,2026-06-12T00:00:00
+nova-0253,NovaWatch: Battery drains fast and I am disappointed.,3,web,2026-06-13T00:00:00
+nova-0254,NovaWatch: Battery drains fast and I am disappointed.,1,web,2026-06-14T00:00:00
+nova-0255,NovaWatch: Bluetooth disconnects sometimes.,5,web,2026-06-15T00:00:00
+nova-0256,NovaWatch: Excellent quality and very reliable.,3,support,2026-06-16T00:00:00
+nova-0257,NovaWatch: Bluetooth disconnects sometimes.,3,web,2026-06-17T00:00:00
+nova-0258,NovaWatch: I wish it had an offline mode.,1,app_store,2026-06-18T00:00:00
+nova-0259,NovaWatch: Bluetooth disconnects sometimes.,3,support,2026-06-19T00:00:00
+nova-0260,NovaWatch: Battery drains fast and I am disappointed.,4,app_store,2026-06-20T00:00:00
+nova-0261,NovaWatch: Bluetooth disconnects sometimes.,3,web,2026-06-21T00:00:00
+nova-0262,NovaWatch: Battery drains fast and I am disappointed.,4,app_store,2026-06-22T00:00:00
+nova-0263,"NovaWatch: Works as expected, nothing special.",1,web,2026-06-23T00:00:00
+nova-0264,NovaWatch: Battery drains fast and I am disappointed.,2,support,2026-06-24T00:00:00
+nova-0265,NovaWatch: Battery drains fast and I am disappointed.,1,app_store,2026-06-25T00:00:00
+nova-0266,"NovaWatch: Works as expected, nothing special.",5,app_store,2026-06-26T00:00:00
+nova-0267,NovaWatch: Setup was easy and smooth.,4,web,2026-06-27T00:00:00
+nova-0268,NovaWatch: Battery drains fast and I am disappointed.,2,web,2026-06-28T00:00:00
+nova-0269,"NovaWatch: Works as expected, nothing special.",2,support,2026-06-29T00:00:00
+nova-0270,NovaWatch: Bluetooth disconnects sometimes.,4,support,2026-06-30T00:00:00
+nova-0271,NovaWatch: Setup was easy and smooth.,2,web,2026-07-01T00:00:00
+nova-0272,NovaWatch: Bluetooth disconnects sometimes.,5,app_store,2026-07-02T00:00:00
+nova-0273,NovaWatch: Battery drains fast and I am disappointed.,4,support,2026-07-03T00:00:00
+nova-0274,NovaWatch: Battery drains fast and I am disappointed.,3,support,2026-07-04T00:00:00
+nova-0275,NovaWatch: Bluetooth disconnects sometimes.,5,web,2026-07-05T00:00:00
+nova-0276,NovaWatch: Setup was easy and smooth.,2,web,2026-07-06T00:00:00
+nova-0277,NovaWatch: Setup was easy and smooth.,5,app_store,2026-07-07T00:00:00
+nova-0278,NovaWatch: Battery drains fast and I am disappointed.,1,support,2026-07-08T00:00:00
+nova-0279,NovaWatch: Setup was easy and smooth.,1,support,2026-07-09T00:00:00
+nova-0280,"NovaWatch: Works as expected, nothing special.",4,app_store,2026-07-10T00:00:00
+nova-0281,NovaWatch: I wish it had an offline mode.,5,app_store,2026-07-11T00:00:00
+nova-0282,"NovaWatch: Works as expected, nothing special.",1,web,2026-07-12T00:00:00
+nova-0283,NovaWatch: I wish it had an offline mode.,1,support,2026-07-13T00:00:00
+nova-0284,NovaWatch: Battery drains fast and I am disappointed.,2,web,2026-07-14T00:00:00
+nova-0285,NovaWatch: Battery drains fast and I am disappointed.,1,app_store,2026-07-15T00:00:00
+nova-0286,NovaWatch: Setup was easy and smooth.,3,support,2026-07-16T00:00:00
+nova-0287,"NovaWatch: Works as expected, nothing special.",2,app_store,2026-07-17T00:00:00
+nova-0288,NovaWatch: I wish it had an offline mode.,3,app_store,2026-07-18T00:00:00
+nova-0289,NovaWatch: Battery drains fast and I am disappointed.,3,app_store,2026-07-19T00:00:00
+nova-0290,NovaWatch: I wish it had an offline mode.,4,web,2026-07-20T00:00:00
+nova-0291,"NovaWatch: Works as expected, nothing special.",4,web,2026-07-21T00:00:00
+nova-0292,NovaWatch: I wish it had an offline mode.,2,web,2026-07-22T00:00:00
+nova-0293,NovaWatch: Battery drains fast and I am disappointed.,1,web,2026-07-23T00:00:00
+nova-0294,NovaWatch: I wish it had an offline mode.,3,web,2026-07-24T00:00:00
+nova-0295,NovaWatch: Excellent quality and very reliable.,4,app_store,2026-07-25T00:00:00
+nova-0296,NovaWatch: Bluetooth disconnects sometimes.,3,support,2026-07-26T00:00:00
+nova-0297,NovaWatch: Excellent quality and very reliable.,2,web,2026-07-27T00:00:00
+nova-0298,NovaWatch: Excellent quality and very reliable.,3,support,2026-07-28T00:00:00
+nova-0299,NovaWatch: I wish it had an offline mode.,2,support,2026-07-29T00:00:00
+nova-0300,NovaWatch: I wish it had an offline mode.,1,web,2026-07-30T00:00:00
+nova-0301,NovaWatch: Excellent quality and very reliable.,5,app_store,2026-07-31T00:00:00
+nova-0302,NovaWatch: Bluetooth disconnects sometimes.,2,web,2026-08-01T00:00:00
+nova-0303,NovaWatch: Battery drains fast and I am disappointed.,4,support,2026-08-02T00:00:00
+nova-0304,NovaWatch: Excellent quality and very reliable.,5,web,2026-08-03T00:00:00
+nova-0305,NovaWatch: I wish it had an offline mode.,2,support,2026-08-04T00:00:00
+nova-0306,NovaWatch: Battery drains fast and I am disappointed.,5,web,2026-08-05T00:00:00
+nova-0307,NovaWatch: I wish it had an offline mode.,5,web,2026-08-06T00:00:00
+nova-0308,NovaWatch: Bluetooth disconnects sometimes.,5,web,2026-08-07T00:00:00
+nova-0309,NovaWatch: Excellent quality and very reliable.,1,support,2026-08-08T00:00:00
+nova-0310,"NovaWatch: Works as expected, nothing special.",1,support,2026-08-09T00:00:00
+nova-0311,NovaWatch: Setup was easy and smooth.,1,app_store,2026-08-10T00:00:00
+nova-0312,NovaWatch: I wish it had an offline mode.,1,app_store,2026-08-11T00:00:00
+nova-0313,"NovaWatch: Works as expected, nothing special.",2,web,2026-08-12T00:00:00
+nova-0314,NovaWatch: I wish it had an offline mode.,1,web,2026-08-13T00:00:00
+nova-0315,NovaWatch: I wish it had an offline mode.,4,support,2026-08-14T00:00:00
+nova-0316,NovaWatch: Setup was easy and smooth.,2,web,2026-08-15T00:00:00
+nova-0317,NovaWatch: Setup was easy and smooth.,1,web,2026-08-16T00:00:00
+nova-0318,NovaWatch: Bluetooth disconnects sometimes.,4,web,2026-08-17T00:00:00
+nova-0319,NovaWatch: I wish it had an offline mode.,5,support,2026-08-18T00:00:00
+nova-0320,NovaWatch: I wish it had an offline mode.,4,support,2026-08-19T00:00:00
+nova-0321,NovaWatch: Excellent quality and very reliable.,2,web,2026-08-20T00:00:00
+nova-0322,NovaWatch: I wish it had an offline mode.,5,app_store,2026-08-21T00:00:00
+nova-0323,NovaWatch: Bluetooth disconnects sometimes.,2,app_store,2026-08-22T00:00:00
+nova-0324,NovaWatch: I wish it had an offline mode.,5,web,2026-08-23T00:00:00
+nova-0325,NovaWatch: Battery drains fast and I am disappointed.,5,app_store,2026-08-24T00:00:00
+nova-0326,NovaWatch: I wish it had an offline mode.,2,support,2026-08-25T00:00:00
+nova-0327,"NovaWatch: Works as expected, nothing special.",2,app_store,2026-08-26T00:00:00
+nova-0328,NovaWatch: Battery drains fast and I am disappointed.,3,web,2026-08-27T00:00:00
+nova-0329,NovaWatch: Bluetooth disconnects sometimes.,1,app_store,2026-08-28T00:00:00
+nova-0330,NovaWatch: I wish it had an offline mode.,3,app_store,2026-08-29T00:00:00
+nova-0331,NovaWatch: Battery drains fast and I am disappointed.,4,support,2026-08-30T00:00:00
+nova-0332,NovaWatch: Bluetooth disconnects sometimes.,2,support,2026-08-31T00:00:00
+nova-0333,NovaWatch: Battery drains fast and I am disappointed.,1,support,2026-09-01T00:00:00
+nova-0334,NovaWatch: I wish it had an offline mode.,4,app_store,2026-09-02T00:00:00
+nova-0335,NovaWatch: I wish it had an offline mode.,3,support,2026-09-03T00:00:00
+nova-0336,"NovaWatch: Works as expected, nothing special.",2,support,2026-09-04T00:00:00
+nova-0337,NovaWatch: Battery drains fast and I am disappointed.,5,support,2026-09-05T00:00:00
+nova-0338,NovaWatch: Battery drains fast and I am disappointed.,3,support,2026-09-06T00:00:00
+nova-0339,NovaWatch: Excellent quality and very reliable.,5,web,2026-09-07T00:00:00
+nova-0340,NovaWatch: Battery drains fast and I am disappointed.,2,support,2026-09-08T00:00:00
+nova-0341,NovaWatch: Bluetooth disconnects sometimes.,4,app_store,2026-09-09T00:00:00
+nova-0342,NovaWatch: Excellent quality and very reliable.,3,app_store,2026-09-10T00:00:00
+nova-0343,"NovaWatch: Works as expected, nothing special.",4,app_store,2026-09-11T00:00:00
+nova-0344,NovaWatch: Excellent quality and very reliable.,1,web,2026-09-12T00:00:00
+nova-0345,"NovaWatch: Works as expected, nothing special.",2,app_store,2026-09-13T00:00:00
+nova-0346,NovaWatch: I wish it had an offline mode.,3,web,2026-09-14T00:00:00
+nova-0347,NovaWatch: Excellent quality and very reliable.,2,web,2026-09-15T00:00:00
+nova-0348,NovaWatch: Bluetooth disconnects sometimes.,4,support,2026-09-16T00:00:00
+nova-0349,"NovaWatch: Works as expected, nothing special.",3,app_store,2026-09-17T00:00:00
+nova-0350,NovaWatch: Setup was easy and smooth.,1,app_store,2026-09-18T00:00:00
+nova-0351,NovaWatch: Excellent quality and very reliable.,4,web,2026-09-19T00:00:00
+nova-0352,NovaWatch: Excellent quality and very reliable.,3,support,2026-09-20T00:00:00
+nova-0353,NovaWatch: Setup was easy and smooth.,3,app_store,2026-09-21T00:00:00
+nova-0354,NovaWatch: I wish it had an offline mode.,4,web,2026-09-22T00:00:00
+nova-0355,NovaWatch: Bluetooth disconnects sometimes.,2,support,2026-09-23T00:00:00
+nova-0356,"NovaWatch: Works as expected, nothing special.",1,web,2026-09-24T00:00:00
+nova-0357,NovaWatch: Excellent quality and very reliable.,3,support,2026-09-25T00:00:00
+nova-0358,NovaWatch: Setup was easy and smooth.,3,support,2026-09-26T00:00:00
+nova-0359,NovaWatch: Battery drains fast and I am disappointed.,1,app_store,2026-09-27T00:00:00
+nova-0360,NovaWatch: I wish it had an offline mode.,1,app_store,2026-09-28T00:00:00
+nova-0361,NovaWatch: Bluetooth disconnects sometimes.,2,web,2026-06-01T00:00:00
+nova-0362,"NovaWatch: Works as expected, nothing special.",2,support,2026-06-02T00:00:00
+nova-0363,NovaWatch: Setup was easy and smooth.,2,app_store,2026-06-03T00:00:00
+nova-0364,NovaWatch: I wish it had an offline mode.,3,support,2026-06-04T00:00:00
+nova-0365,NovaWatch: Setup was easy and smooth.,3,web,2026-06-05T00:00:00
+nova-0366,NovaWatch: Battery drains fast and I am disappointed.,3,web,2026-06-06T00:00:00
+nova-0367,NovaWatch: Battery drains fast and I am disappointed.,3,app_store,2026-06-07T00:00:00
+nova-0368,NovaWatch: Setup was easy and smooth.,3,web,2026-06-08T00:00:00
+nova-0369,NovaWatch: Battery drains fast and I am disappointed.,1,app_store,2026-06-09T00:00:00
+nova-0370,NovaWatch: Excellent quality and very reliable.,5,support,2026-06-10T00:00:00
+nova-0371,NovaWatch: I wish it had an offline mode.,4,app_store,2026-06-11T00:00:00
+nova-0372,NovaWatch: Battery drains fast and I am disappointed.,4,web,2026-06-12T00:00:00
+nova-0373,NovaWatch: Bluetooth disconnects sometimes.,2,web,2026-06-13T00:00:00
+nova-0374,NovaWatch: Setup was easy and smooth.,5,support,2026-06-14T00:00:00
+nova-0375,NovaWatch: Excellent quality and very reliable.,2,support,2026-06-15T00:00:00
+nova-0376,NovaWatch: Battery drains fast and I am disappointed.,2,app_store,2026-06-16T00:00:00
+nova-0377,NovaWatch: Bluetooth disconnects sometimes.,4,app_store,2026-06-17T00:00:00
+nova-0378,NovaWatch: Excellent quality and very reliable.,4,web,2026-06-18T00:00:00
+nova-0379,NovaWatch: Battery drains fast and I am disappointed.,2,support,2026-06-19T00:00:00
+nova-0380,"NovaWatch: Works as expected, nothing special.",1,app_store,2026-06-20T00:00:00
+nova-0381,NovaWatch: Setup was easy and smooth.,5,web,2026-06-21T00:00:00
+nova-0382,NovaWatch: Battery drains fast and I am disappointed.,3,app_store,2026-06-22T00:00:00
+nova-0383,NovaWatch: I wish it had an offline mode.,1,support,2026-06-23T00:00:00
+nova-0384,NovaWatch: I wish it had an offline mode.,4,web,2026-06-24T00:00:00
+nova-0385,NovaWatch: Excellent quality and very reliable.,4,app_store,2026-06-25T00:00:00
+nova-0386,NovaWatch: I wish it had an offline mode.,2,support,2026-06-26T00:00:00
+nova-0387,NovaWatch: Battery drains fast and I am disappointed.,4,web,2026-06-27T00:00:00
+nova-0388,NovaWatch: Excellent quality and very reliable.,4,support,2026-06-28T00:00:00
+nova-0389,NovaWatch: I wish it had an offline mode.,3,support,2026-06-29T00:00:00
+nova-0390,NovaWatch: Battery drains fast and I am disappointed.,4,app_store,2026-06-30T00:00:00
+nova-0391,NovaWatch: Setup was easy and smooth.,3,support,2026-07-01T00:00:00
+nova-0392,NovaWatch: Bluetooth disconnects sometimes.,4,support,2026-07-02T00:00:00
+nova-0393,NovaWatch: I wish it had an offline mode.,2,web,2026-07-03T00:00:00
+nova-0394,NovaWatch: Setup was easy and smooth.,5,app_store,2026-07-04T00:00:00
+nova-0395,NovaWatch: Excellent quality and very reliable.,3,support,2026-07-05T00:00:00
+nova-0396,NovaWatch: I wish it had an offline mode.,3,support,2026-07-06T00:00:00
+nova-0397,NovaWatch: Setup was easy and smooth.,4,web,2026-07-07T00:00:00
+nova-0398,NovaWatch: Bluetooth disconnects sometimes.,2,web,2026-07-08T00:00:00
+nova-0399,"NovaWatch: Works as expected, nothing special.",5,support,2026-07-09T00:00:00
+nova-0400,NovaWatch: Excellent quality and very reliable.,2,app_store,2026-07-10T00:00:00

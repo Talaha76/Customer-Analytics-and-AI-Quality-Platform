@@ -1,0 +1,401 @@
+id,review,rating,source,created_at
+nova-0001,NovaBuds Pro: Setup was easy and smooth.,2,support,2026-06-01T00:00:00
+nova-0002,NovaBuds Pro: Excellent quality and very reliable.,4,app_store,2026-06-02T00:00:00
+nova-0003,NovaBuds Pro: Excellent quality and very reliable.,1,web,2026-06-03T00:00:00
+nova-0004,NovaBuds Pro: Battery drains fast and I am disappointed.,4,web,2026-06-04T00:00:00
+nova-0005,NovaBuds Pro: Excellent quality and very reliable.,3,app_store,2026-06-05T00:00:00
+nova-0006,NovaBuds Pro: Excellent quality and very reliable.,1,app_store,2026-06-06T00:00:00
+nova-0007,NovaBuds Pro: Setup was easy and smooth.,5,app_store,2026-06-07T00:00:00
+nova-0008,NovaBuds Pro: Excellent quality and very reliable.,3,support,2026-06-08T00:00:00
+nova-0009,NovaBuds Pro: Battery drains fast and I am disappointed.,4,support,2026-06-09T00:00:00
+nova-0010,"NovaBuds Pro: Works as expected, nothing special.",1,app_store,2026-06-10T00:00:00
+nova-0011,NovaBuds Pro: I wish it had an offline mode.,5,support,2026-06-11T00:00:00
+nova-0012,NovaBuds Pro: Setup was easy and smooth.,3,app_store,2026-06-12T00:00:00
+nova-0013,NovaBuds Pro: Excellent quality and very reliable.,3,web,2026-06-13T00:00:00
+nova-0014,NovaBuds Pro: Battery drains fast and I am disappointed.,1,app_store,2026-06-14T00:00:00
+nova-0015,"NovaBuds Pro: Works as expected, nothing special.",1,support,2026-06-15T00:00:00
+nova-0016,NovaBuds Pro: I wish it had an offline mode.,2,app_store,2026-06-16T00:00:00
+nova-0017,"NovaBuds Pro: Works as expected, nothing special.",4,support,2026-06-17T00:00:00
+nova-0018,"NovaBuds Pro: Works as expected, nothing special.",2,support,2026-06-18T00:00:00
+nova-0019,"NovaBuds Pro: Works as expected, nothing special.",1,app_store,2026-06-19T00:00:00
+nova-0020,NovaBuds Pro: Excellent quality and very reliable.,4,support,2026-06-20T00:00:00
+nova-0021,NovaBuds Pro: Bluetooth disconnects sometimes.,1,web,2026-06-21T00:00:00
+nova-0022,NovaBuds Pro: Excellent quality and very reliable.,4,support,2026-06-22T00:00:00
+nova-0023,NovaBuds Pro: Setup was easy and smooth.,2,support,2026-06-23T00:00:00
+nova-0024,NovaBuds Pro: Setup was easy and smooth.,1,support,2026-06-24T00:00:00
+nova-0025,NovaBuds Pro: Battery drains fast and I am disappointed.,4,support,2026-06-25T00:00:00
+nova-0026,"NovaBuds Pro: Works as expected, nothing special.",4,web,2026-06-26T00:00:00
+nova-0027,NovaBuds Pro: I wish it had an offline mode.,3,web,2026-06-27T00:00:00
+nova-0028,NovaBuds Pro: Excellent quality and very reliable.,3,support,2026-06-28T00:00:00
+nova-0029,NovaBuds Pro: Setup was easy and smooth.,3,web,2026-06-29T00:00:00
+nova-0030,NovaBuds Pro: Bluetooth disconnects sometimes.,1,web,2026-06-30T00:00:00
+nova-0031,NovaBuds Pro: I wish it had an offline mode.,2,web,2026-07-01T00:00:00
+nova-0032,NovaBuds Pro: I wish it had an offline mode.,4,app_store,2026-07-02T00:00:00
+nova-0033,NovaBuds Pro: Excellent quality and very reliable.,4,app_store,2026-07-03T00:00:00
+nova-0034,NovaBuds Pro: Bluetooth disconnects sometimes.,1,app_store,2026-07-04T00:00:00
+nova-0035,NovaBuds Pro: Bluetooth disconnects sometimes.,5,web,2026-07-05T00:00:00
+nova-0036,NovaBuds Pro: Bluetooth disconnects sometimes.,2,app_store,2026-07-06T00:00:00
+nova-0037,NovaBuds Pro: Excellent quality and very reliable.,1,support,2026-07-07T00:00:00
+nova-0038,NovaBuds Pro: Battery drains fast and I am disappointed.,4,app_store,2026-07-08T00:00:00
+nova-0039,NovaBuds Pro: Setup was easy and smooth.,5,web,2026-07-09T00:00:00
+nova-0040,NovaBuds Pro: I wish it had an offline mode.,5,app_store,2026-07-10T00:00:00
+nova-0041,NovaBuds Pro: Battery drains fast and I am disappointed.,3,web,2026-07-11T00:00:00
+nova-0042,NovaBuds Pro: Battery drains fast and I am disappointed.,5,app_store,2026-07-12T00:00:00
+nova-0043,NovaBuds Pro: Excellent quality and very reliable.,1,web,2026-07-13T00:00:00
+nova-0044,NovaBuds Pro: Bluetooth disconnects sometimes.,2,web,2026-07-14T00:00:00
+nova-0045,NovaBuds Pro: Battery drains fast and I am disappointed.,1,web,2026-07-15T00:00:00
+nova-0046,"NovaBuds Pro: Works as expected, nothing special.",1,support,2026-07-16T00:00:00
+nova-0047,NovaBuds Pro: I wish it had an offline mode.,4,app_store,2026-07-17T00:00:00
+nova-0048,NovaBuds Pro: I wish it had an offline mode.,5,support,2026-07-18T00:00:00
+nova-0049,NovaBuds Pro: Battery drains fast and I am disappointed.,2,support,2026-07-19T00:00:00
+nova-0050,NovaBuds Pro: Bluetooth disconnects sometimes.,5,app_store,2026-07-20T00:00:00
+nova-0051,NovaBuds Pro: Bluetooth disconnects sometimes.,2,support,2026-07-21T00:00:00
+nova-0052,NovaBuds Pro: Battery drains fast and I am disappointed.,1,web,2026-07-22T00:00:00
+nova-0053,NovaBuds Pro: Setup was easy and smooth.,2,web,2026-07-23T00:00:00
+nova-0054,"NovaBuds Pro: Works as expected, nothing special.",1,app_store,2026-07-24T00:00:00
+nova-0055,NovaBuds Pro: Battery drains fast and I am disappointed.,2,app_store,2026-07-25T00:00:00
+nova-0056,NovaBuds Pro: Setup was easy and smooth.,1,support,2026-07-26T00:00:00
+nova-0057,"NovaBuds Pro: Works as expected, nothing special.",1,web,2026-07-27T00:00:00
+nova-0058,NovaBuds Pro: Setup was easy and smooth.,4,support,2026-07-28T00:00:00
+nova-0059,NovaBuds Pro: I wish it had an offline mode.,3,support,2026-07-29T00:00:00
+nova-0060,NovaBuds Pro: Bluetooth disconnects sometimes.,3,support,2026-07-30T00:00:00
+nova-0061,NovaBuds Pro: Battery drains fast and I am disappointed.,4,web,2026-07-31T00:00:00
+nova-0062,NovaBuds Pro: I wish it had an offline mode.,3,web,2026-08-01T00:00:00
+nova-0063,NovaBuds Pro: Setup was easy and smooth.,4,app_store,2026-08-02T00:00:00
+nova-0064,NovaBuds Pro: Excellent quality and very reliable.,1,support,2026-08-03T00:00:00
+nova-0065,NovaBuds Pro: Bluetooth disconnects sometimes.,4,app_store,2026-08-04T00:00:00
+nova-0066,NovaBuds Pro: Bluetooth disconnects sometimes.,5,web,2026-08-05T00:00:00
+nova-0067,NovaBuds Pro: Battery drains fast and I am disappointed.,4,web,2026-08-06T00:00:00
+nova-0068,NovaBuds Pro: Excellent quality and very reliable.,1,app_store,2026-08-07T00:00:00
+nova-0069,"NovaBuds Pro: Works as expected, nothing special.",4,web,2026-08-08T00:00:00
+nova-0070,NovaBuds Pro: Excellent quality and very reliable.,4,support,2026-08-09T00:00:00
+nova-0071,NovaBuds Pro: Setup was easy and smooth.,1,app_store,2026-08-10T00:00:00
+nova-0072,NovaBuds Pro: I wish it had an offline mode.,2,app_store,2026-08-11T00:00:00
+nova-0073,NovaBuds Pro: I wish it had an offline mode.,3,support,2026-08-12T00:00:00
+nova-0074,NovaBuds Pro: Setup was easy and smooth.,1,app_store,2026-08-13T00:00:00
+nova-0075,NovaBuds Pro: Setup was easy and smooth.,4,support,2026-08-14T00:00:00
+nova-0076,NovaBuds Pro: Battery drains fast and I am disappointed.,1,app_store,2026-08-15T00:00:00
+nova-0077,NovaBuds Pro: Setup was easy and smooth.,1,app_store,2026-08-16T00:00:00
+nova-0078,NovaBuds Pro: Battery drains fast and I am disappointed.,4,web,2026-08-17T00:00:00
+nova-0079,NovaBuds Pro: Battery drains fast and I am disappointed.,2,app_store,2026-08-18T00:00:00
+nova-0080,"NovaBuds Pro: Works as expected, nothing special.",5,web,2026-08-19T00:00:00
+nova-0081,NovaBuds Pro: Battery drains fast and I am disappointed.,3,support,2026-08-20T00:00:00
+nova-0082,"NovaBuds Pro: Works as expected, nothing special.",4,app_store,2026-08-21T00:00:00
+nova-0083,"NovaBuds Pro: Works as expected, nothing special.",5,web,2026-08-22T00:00:00
+nova-0084,NovaBuds Pro: Battery drains fast and I am disappointed.,5,web,2026-08-23T00:00:00
+nova-0085,NovaBuds Pro: Setup was easy and smooth.,5,app_store,2026-08-24T00:00:00
+nova-0086,"NovaBuds Pro: Works as expected, nothing special.",3,app_store,2026-08-25T00:00:00
+nova-0087,NovaBuds Pro: Battery drains fast and I am disappointed.,2,web,2026-08-26T00:00:00
+nova-0088,NovaBuds Pro: Battery drains fast and I am disappointed.,3,support,2026-08-27T00:00:00
+nova-0089,"NovaBuds Pro: Works as expected, nothing special.",4,app_store,2026-08-28T00:00:00
+nova-0090,"NovaBuds Pro: Works as expected, nothing special.",1,support,2026-08-29T00:00:00
+nova-0091,NovaBuds Pro: Excellent quality and very reliable.,3,web,2026-08-30T00:00:00
+nova-0092,NovaBuds Pro: Setup was easy and smooth.,5,support,2026-08-31T00:00:00
+nova-0093,NovaBuds Pro: I wish it had an offline mode.,1,web,2026-09-01T00:00:00
+nova-0094,NovaBuds Pro: Setup was easy and smooth.,4,support,2026-09-02T00:00:00
+nova-0095,"NovaBuds Pro: Works as expected, nothing special.",3,web,2026-09-03T00:00:00
+nova-0096,"NovaBuds Pro: Works as expected, nothing special.",5,app_store,2026-09-04T00:00:00
+nova-0097,"NovaBuds Pro: Works as expected, nothing special.",3,app_store,2026-09-05T00:00:00
+nova-0098,NovaBuds Pro: Bluetooth disconnects sometimes.,2,app_store,2026-09-06T00:00:00
+nova-0099,NovaBuds Pro: Setup was easy and smooth.,1,web,2026-09-07T00:00:00
+nova-0100,NovaBuds Pro: Setup was easy and smooth.,3,web,2026-09-08T00:00:00
+nova-0101,NovaBuds Pro: I wish it had an offline mode.,5,support,2026-09-09T00:00:00
+nova-0102,"NovaBuds Pro: Works as expected, nothing special.",1,support,2026-09-10T00:00:00
+nova-0103,NovaBuds Pro: Excellent quality and very reliable.,2,app_store,2026-09-11T00:00:00
+nova-0104,"NovaBuds Pro: Works as expected, nothing special.",5,support,2026-09-12T00:00:00
+nova-0105,NovaBuds Pro: Bluetooth disconnects sometimes.,4,support,2026-09-13T00:00:00
+nova-0106,"NovaBuds Pro: Works as expected, nothing special.",1,app_store,2026-09-14T00:00:00
+nova-0107,NovaBuds Pro: Bluetooth disconnects sometimes.,2,support,2026-09-15T00:00:00
+nova-0108,NovaBuds Pro: I wish it had an offline mode.,1,app_store,2026-09-16T00:00:00
+nova-0109,NovaBuds Pro: Excellent quality and very reliable.,1,support,2026-09-17T00:00:00
+nova-0110,"NovaBuds Pro: Works as expected, nothing special.",3,app_store,2026-09-18T00:00:00
+nova-0111,NovaBuds Pro: Setup was easy and smooth.,3,support,2026-09-19T00:00:00
+nova-0112,NovaBuds Pro: Battery drains fast and I am disappointed.,4,support,2026-09-20T00:00:00
+nova-0113,"NovaBuds Pro: Works as expected, nothing special.",5,app_store,2026-09-21T00:00:00
+nova-0114,NovaBuds Pro: Battery drains fast and I am disappointed.,3,support,2026-09-22T00:00:00
+nova-0115,NovaBuds Pro: Bluetooth disconnects sometimes.,2,app_store,2026-09-23T00:00:00
+nova-0116,NovaBuds Pro: Excellent quality and very reliable.,2,support,2026-09-24T00:00:00
+nova-0117,NovaBuds Pro: Battery drains fast and I am disappointed.,4,app_store,2026-09-25T00:00:00
+nova-0118,NovaBuds Pro: Excellent quality and very reliable.,2,support,2026-09-26T00:00:00
+nova-0119,"NovaBuds Pro: Works as expected, nothing special.",4,web,2026-09-27T00:00:00
+nova-0120,NovaBuds Pro: Excellent quality and very reliable.,1,support,2026-09-28T00:00:00
+nova-0121,NovaBuds Pro: Setup was easy and smooth.,3,support,2026-06-01T00:00:00
+nova-0122,NovaBuds Pro: I wish it had an offline mode.,5,web,2026-06-02T00:00:00
+nova-0123,NovaBuds Pro: Setup was easy and smooth.,5,support,2026-06-03T00:00:00
+nova-0124,NovaBuds Pro: Bluetooth disconnects sometimes.,2,app_store,2026-06-04T00:00:00
+nova-0125,NovaBuds Pro: Excellent quality and very reliable.,1,app_store,2026-06-05T00:00:00
+nova-0126,NovaBuds Pro: Setup was easy and smooth.,1,web,2026-06-06T00:00:00
+nova-0127,NovaBuds Pro: Battery drains fast and I am disappointed.,2,app_store,2026-06-07T00:00:00
+nova-0128,NovaBuds Pro: Excellent quality and very reliable.,1,app_store,2026-06-08T00:00:00
+nova-0129,NovaBuds Pro: Setup was easy and smooth.,5,support,2026-06-09T00:00:00
+nova-0130,NovaBuds Pro: Battery drains fast and I am disappointed.,2,web,2026-06-10T00:00:00
+nova-0131,NovaBuds Pro: Battery drains fast and I am disappointed.,5,support,2026-06-11T00:00:00
+nova-0132,NovaBuds Pro: I wish it had an offline mode.,5,support,2026-06-12T00:00:00
+nova-0133,NovaBuds Pro: I wish it had an offline mode.,4,support,2026-06-13T00:00:00
+nova-0134,NovaBuds Pro: Battery drains fast and I am disappointed.,5,web,2026-06-14T00:00:00
+nova-0135,NovaBuds Pro: Excellent quality and very reliable.,3,support,2026-06-15T00:00:00
+nova-0136,NovaBuds Pro: Excellent quality and very reliable.,4,support,2026-06-16T00:00:00
+nova-0137,NovaBuds Pro: Setup was easy and smooth.,1,web,2026-06-17T00:00:00
+nova-0138,NovaBuds Pro: Bluetooth disconnects sometimes.,4,app_store,2026-06-18T00:00:00
+nova-0139,NovaBuds Pro: I wish it had an offline mode.,4,app_store,2026-06-19T00:00:00
+nova-0140,NovaBuds Pro: Battery drains fast and I am disappointed.,1,web,2026-06-20T00:00:00
+nova-0141,NovaBuds Pro: Battery drains fast and I am disappointed.,1,app_store,2026-06-21T00:00:00
+nova-0142,"NovaBuds Pro: Works as expected, nothing special.",3,support,2026-06-22T00:00:00
+nova-0143,NovaBuds Pro: Excellent quality and very reliable.,3,support,2026-06-23T00:00:00
+nova-0144,NovaBuds Pro: Setup was easy and smooth.,4,support,2026-06-24T00:00:00
+nova-0145,NovaBuds Pro: Setup was easy and smooth.,3,web,2026-06-25T00:00:00
+nova-0146,NovaBuds Pro: I wish it had an offline mode.,2,app_store,2026-06-26T00:00:00
+nova-0147,NovaBuds Pro: Setup was easy and smooth.,1,app_store,2026-06-27T00:00:00
+nova-0148,"NovaBuds Pro: Works as expected, nothing special.",2,support,2026-06-28T00:00:00
+nova-0149,NovaBuds Pro: Battery drains fast and I am disappointed.,2,support,2026-06-29T00:00:00
+nova-0150,"NovaBuds Pro: Works as expected, nothing special.",2,web,2026-06-30T00:00:00
+nova-0151,"NovaBuds Pro: Works as expected, nothing special.",5,app_store,2026-07-01T00:00:00
+nova-0152,NovaBuds Pro: Bluetooth disconnects sometimes.,5,web,2026-07-02T00:00:00
+nova-0153,NovaBuds Pro: Bluetooth disconnects sometimes.,5,support,2026-07-03T00:00:00
+nova-0154,NovaBuds Pro: Excellent quality and very reliable.,1,web,2026-07-04T00:00:00
+nova-0155,NovaBuds Pro: I wish it had an offline mode.,2,support,2026-07-05T00:00:00
+nova-0156,"NovaBuds Pro: Works as expected, nothing special.",2,web,2026-07-06T00:00:00
+nova-0157,NovaBuds Pro: Setup was easy and smooth.,5,app_store,2026-07-07T00:00:00
+nova-0158,NovaBuds Pro: Setup was easy and smooth.,2,app_store,2026-07-08T00:00:00
+nova-0159,NovaBuds Pro: Excellent quality and very reliable.,1,app_store,2026-07-09T00:00:00
+nova-0160,NovaBuds Pro: Excellent quality and very reliable.,5,app_store,2026-07-10T00:00:00
+nova-0161,"NovaBuds Pro: Works as expected, nothing special.",2,support,2026-07-11T00:00:00
+nova-0162,NovaBuds Pro: Excellent quality and very reliable.,1,app_store,2026-07-12T00:00:00
+nova-0163,NovaBuds Pro: Battery drains fast and I am disappointed.,1,support,2026-07-13T00:00:00
+nova-0164,NovaBuds Pro: Excellent quality and very reliable.,1,app_store,2026-07-14T00:00:00
+nova-0165,NovaBuds Pro: Setup was easy and smooth.,3,app_store,2026-07-15T00:00:00
+nova-0166,NovaBuds Pro: Setup was easy and smooth.,1,support,2026-07-16T00:00:00
+nova-0167,NovaBuds Pro: Bluetooth disconnects sometimes.,1,app_store,2026-07-17T00:00:00
+nova-0168,NovaBuds Pro: Battery drains fast and I am disappointed.,2,app_store,2026-07-18T00:00:00
+nova-0169,NovaBuds Pro: Excellent quality and very reliable.,1,support,2026-07-19T00:00:00
+nova-0170,NovaBuds Pro: Excellent quality and very reliable.,3,web,2026-07-20T00:00:00
+nova-0171,NovaBuds Pro: Excellent quality and very reliable.,2,app_store,2026-07-21T00:00:00
+nova-0172,NovaBuds Pro: I wish it had an offline mode.,2,web,2026-07-22T00:00:00
+nova-0173,"NovaBuds Pro: Works as expected, nothing special.",3,web,2026-07-23T00:00:00
+nova-0174,"NovaBuds Pro: Works as expected, nothing special.",1,web,2026-07-24T00:00:00
+nova-0175,"NovaBuds Pro: Works as expected, nothing special.",3,app_store,2026-07-25T00:00:00
+nova-0176,NovaBuds Pro: I wish it had an offline mode.,3,web,2026-07-26T00:00:00
+nova-0177,NovaBuds Pro: Setup was easy and smooth.,5,web,2026-07-27T00:00:00
+nova-0178,"NovaBuds Pro: Works as expected, nothing special.",5,support,2026-07-28T00:00:00
+nova-0179,NovaBuds Pro: Excellent quality and very reliable.,4,app_store,2026-07-29T00:00:00
+nova-0180,NovaBuds Pro: Bluetooth disconnects sometimes.,5,app_store,2026-07-30T00:00:00
+nova-0181,"NovaBuds Pro: Works as expected, nothing special.",4,support,2026-07-31T00:00:00
+nova-0182,NovaBuds Pro: Excellent quality and very reliable.,5,support,2026-08-01T00:00:00
+nova-0183,NovaBuds Pro: Battery drains fast and I am disappointed.,1,support,2026-08-02T00:00:00
+nova-0184,"NovaBuds Pro: Works as expected, nothing special.",2,web,2026-08-03T00:00:00
+nova-0185,NovaBuds Pro: Excellent quality and very reliable.,5,app_store,2026-08-04T00:00:00
+nova-0186,"NovaBuds Pro: Works as expected, nothing special.",1,app_store,2026-08-05T00:00:00
+nova-0187,"NovaBuds Pro: Works as expected, nothing special.",4,app_store,2026-08-06T00:00:00
+nova-0188,NovaBuds Pro: Bluetooth disconnects sometimes.,2,web,2026-08-07T00:00:00
+nova-0189,NovaBuds Pro: Setup was easy and smooth.,3,support,2026-08-08T00:00:00
+nova-0190,"NovaBuds Pro: Works as expected, nothing special.",5,app_store,2026-08-09T00:00:00
+nova-0191,"NovaBuds Pro: Works as expected, nothing special.",2,support,2026-08-10T00:00:00
+nova-0192,NovaBuds Pro: Battery drains fast and I am disappointed.,4,app_store,2026-08-11T00:00:00
+nova-0193,NovaBuds Pro: Excellent quality and very reliable.,1,web,2026-08-12T00:00:00
+nova-0194,NovaBuds Pro: I wish it had an offline mode.,5,app_store,2026-08-13T00:00:00
+nova-0195,NovaBuds Pro: I wish it had an offline mode.,3,web,2026-08-14T00:00:00
+nova-0196,NovaBuds Pro: Excellent quality and very reliable.,4,web,2026-08-15T00:00:00
+nova-0197,NovaBuds Pro: I wish it had an offline mode.,1,web,2026-08-16T00:00:00
+nova-0198,NovaBuds Pro: I wish it had an offline mode.,1,web,2026-08-17T00:00:00
+nova-0199,NovaBuds Pro: Battery drains fast and I am disappointed.,3,web,2026-08-18T00:00:00
+nova-0200,NovaBuds Pro: Bluetooth disconnects sometimes.,5,support,2026-08-19T00:00:00
+nova-0201,NovaBuds Pro: Battery drains fast and I am disappointed.,4,support,2026-08-20T00:00:00
+nova-0202,NovaBuds Pro: Battery drains fast and I am disappointed.,4,app_store,2026-08-21T00:00:00
+nova-0203,NovaBuds Pro: Setup was easy and smooth.,5,support,2026-08-22T00:00:00
+nova-0204,NovaBuds Pro: Setup was easy and smooth.,1,web,2026-08-23T00:00:00
+nova-0205,NovaBuds Pro: Setup was easy and smooth.,3,support,2026-08-24T00:00:00
+nova-0206,NovaBuds Pro: Battery drains fast and I am disappointed.,4,support,2026-08-25T00:00:00
+nova-0207,NovaBuds Pro: Setup was easy and smooth.,3,app_store,2026-08-26T00:00:00
+nova-0208,NovaBuds Pro: Bluetooth disconnects sometimes.,4,support,2026-08-27T00:00:00
+nova-0209,"NovaBuds Pro: Works as expected, nothing special.",5,app_store,2026-08-28T00:00:00
+nova-0210,NovaBuds Pro: Battery drains fast and I am disappointed.,3,web,2026-08-29T00:00:00
+nova-0211,NovaBuds Pro: I wish it had an offline mode.,2,support,2026-08-30T00:00:00
+nova-0212,NovaBuds Pro: Battery drains fast and I am disappointed.,3,web,2026-08-31T00:00:00
+nova-0213,NovaBuds Pro: I wish it had an offline mode.,5,app_store,2026-09-01T00:00:00
+nova-0214,NovaBuds Pro: I wish it had an offline mode.,2,app_store,2026-09-02T00:00:00
+nova-0215,NovaBuds Pro: I wish it had an offline mode.,3,support,2026-09-03T00:00:00
+nova-0216,NovaBuds Pro: Setup was easy and smooth.,3,app_store,2026-09-04T00:00:00
+nova-0217,NovaBuds Pro: Battery drains fast and I am disappointed.,3,app_store,2026-09-05T00:00:00
+nova-0218,"NovaBuds Pro: Works as expected, nothing special.",1,app_store,2026-09-06T00:00:00
+nova-0219,NovaBuds Pro: I wish it had an offline mode.,1,app_store,2026-09-07T00:00:00
+nova-0220,NovaBuds Pro: Bluetooth disconnects sometimes.,2,app_store,2026-09-08T00:00:00
+nova-0221,"NovaBuds Pro: Works as expected, nothing special.",3,web,2026-09-09T00:00:00
+nova-0222,"NovaBuds Pro: Works as expected, nothing special.",2,app_store,2026-09-10T00:00:00
+nova-0223,NovaBuds Pro: I wish it had an offline mode.,1,web,2026-09-11T00:00:00
+nova-0224,NovaBuds Pro: Battery drains fast and I am disappointed.,4,web,2026-09-12T00:00:00
+nova-0225,NovaBuds Pro: Excellent quality and very reliable.,1,web,2026-09-13T00:00:00
+nova-0226,NovaBuds Pro: Bluetooth disconnects sometimes.,2,support,2026-09-14T00:00:00
+nova-0227,NovaBuds Pro: I wish it had an offline mode.,3,web,2026-09-15T00:00:00
+nova-0228,NovaBuds Pro: Excellent quality and very reliable.,2,web,2026-09-16T00:00:00
+nova-0229,NovaBuds Pro: Setup was easy and smooth.,4,app_store,2026-09-17T00:00:00
+nova-0230,NovaBuds Pro: I wish it had an offline mode.,2,web,2026-09-18T00:00:00
+nova-0231,NovaBuds Pro: I wish it had an offline mode.,5,support,2026-09-19T00:00:00
+nova-0232,NovaBuds Pro: I wish it had an offline mode.,4,app_store,2026-09-20T00:00:00
+nova-0233,NovaBuds Pro: I wish it had an offline mode.,5,app_store,2026-09-21T00:00:00
+nova-0234,NovaBuds Pro: I wish it had an offline mode.,2,support,2026-09-22T00:00:00
+nova-0235,NovaBuds Pro: Excellent quality and very reliable.,4,web,2026-09-23T00:00:00
+nova-0236,"NovaBuds Pro: Works as expected, nothing special.",3,support,2026-09-24T00:00:00
+nova-0237,NovaBuds Pro: I wish it had an offline mode.,1,web,2026-09-25T00:00:00
+nova-0238,NovaBuds Pro: Battery drains fast and I am disappointed.,4,support,2026-09-26T00:00:00
+nova-0239,NovaBuds Pro: I wish it had an offline mode.,2,web,2026-09-27T00:00:00
+nova-0240,NovaBuds Pro: Bluetooth disconnects sometimes.,4,web,2026-09-28T00:00:00
+nova-0241,NovaBuds Pro: Excellent quality and very reliable.,5,web,2026-06-01T00:00:00
+nova-0242,NovaBuds Pro: Setup was easy and smooth.,2,support,2026-06-02T00:00:00
+nova-0243,"NovaBuds Pro: Works as expected, nothing special.",1,web,2026-06-03T00:00:00
+nova-0244,NovaBuds Pro: Bluetooth disconnects sometimes.,1,app_store,2026-06-04T00:00:00
+nova-0245,"NovaBuds Pro: Works as expected, nothing special.",5,app_store,2026-06-05T00:00:00
+nova-0246,NovaBuds Pro: Battery drains fast and I am disappointed.,2,support,2026-06-06T00:00:00
+nova-0247,"NovaBuds Pro: Works as expected, nothing special.",1,support,2026-06-07T00:00:00
+nova-0248,NovaBuds Pro: Bluetooth disconnects sometimes.,5,app_store,2026-06-08T00:00:00
+nova-0249,NovaBuds Pro: I wish it had an offline mode.,4,support,2026-06-09T00:00:00
+nova-0250,NovaBuds Pro: Excellent quality and very reliable.,3,support,2026-06-10T00:00:00
+nova-0251,"NovaBuds Pro: Works as expected, nothing special.",4,support,2026-06-11T00:00:00
+nova-0252,NovaBuds Pro: Bluetooth disconnects sometimes.,2,support,2026-06-12T00:00:00
+nova-0253,NovaBuds Pro: Battery drains fast and I am disappointed.,4,support,2026-06-13T00:00:00
+nova-0254,NovaBuds Pro: Excellent quality and very reliable.,5,web,2026-06-14T00:00:00
+nova-0255,NovaBuds Pro: I wish it had an offline mode.,1,web,2026-06-15T00:00:00
+nova-0256,"NovaBuds Pro: Works as expected, nothing special.",4,web,2026-06-16T00:00:00
+nova-0257,NovaBuds Pro: Excellent quality and very reliable.,1,app_store,2026-06-17T00:00:00
+nova-0258,NovaBuds Pro: Bluetooth disconnects sometimes.,4,support,2026-06-18T00:00:00
+nova-0259,NovaBuds Pro: I wish it had an offline mode.,3,support,2026-06-19T00:00:00
+nova-0260,"NovaBuds Pro: Works as expected, nothing special.",1,app_store,2026-06-20T00:00:00
+nova-0261,"NovaBuds Pro: Works as expected, nothing special.",4,support,2026-06-21T00:00:00
+nova-0262,NovaBuds Pro: Battery drains fast and I am disappointed.,4,web,2026-06-22T00:00:00
+nova-0263,NovaBuds Pro: Battery drains fast and I am disappointed.,2,app_store,2026-06-23T00:00:00
+nova-0264,NovaBuds Pro: Excellent quality and very reliable.,2,web,2026-06-24T00:00:00
+nova-0265,NovaBuds Pro: I wish it had an offline mode.,5,support,2026-06-25T00:00:00
+nova-0266,NovaBuds Pro: Battery drains fast and I am disappointed.,2,web,2026-06-26T00:00:00
+nova-0267,NovaBuds Pro: I wish it had an offline mode.,4,web,2026-06-27T00:00:00
+nova-0268,"NovaBuds Pro: Works as expected, nothing special.",5,support,2026-06-28T00:00:00
+nova-0269,NovaBuds Pro: Battery drains fast and I am disappointed.,4,web,2026-06-29T00:00:00
+nova-0270,NovaBuds Pro: Battery drains fast and I am disappointed.,3,support,2026-06-30T00:00:00
+nova-0271,NovaBuds Pro: Bluetooth disconnects sometimes.,3,web,2026-07-01T00:00:00
+nova-0272,NovaBuds Pro: I wish it had an offline mode.,2,web,2026-07-02T00:00:00
+nova-0273,NovaBuds Pro: Excellent quality and very reliable.,3,web,2026-07-03T00:00:00
+nova-0274,NovaBuds Pro: Battery drains fast and I am disappointed.,3,web,2026-07-04T00:00:00
+nova-0275,NovaBuds Pro: Bluetooth disconnects sometimes.,4,web,2026-07-05T00:00:00
+nova-0276,NovaBuds Pro: Setup was easy and smooth.,1,support,2026-07-06T00:00:00
+nova-0277,"NovaBuds Pro: Works as expected, nothing special.",2,web,2026-07-07T00:00:00
+nova-0278,NovaBuds Pro: Bluetooth disconnects sometimes.,1,app_store,2026-07-08T00:00:00
+nova-0279,NovaBuds Pro: Setup was easy and smooth.,3,app_store,2026-07-09T00:00:00
+nova-0280,NovaBuds Pro: Setup was easy and smooth.,3,support,2026-07-10T00:00:00
+nova-0281,NovaBuds Pro: Setup was easy and smooth.,1,support,2026-07-11T00:00:00
+nova-0282,NovaBuds Pro: Excellent quality and very reliable.,2,app_store,2026-07-12T00:00:00
+nova-0283,NovaBuds Pro: I wish it had an offline mode.,3,web,2026-07-13T00:00:00
+nova-0284,NovaBuds Pro: Setup was easy and smooth.,1,support,2026-07-14T00:00:00
+nova-0285,NovaBuds Pro: Battery drains fast and I am disappointed.,2,app_store,2026-07-15T00:00:00
+nova-0286,NovaBuds Pro: Bluetooth disconnects sometimes.,3,app_store,2026-07-16T00:00:00
+nova-0287,NovaBuds Pro: Battery drains fast and I am disappointed.,4,support,2026-07-17T00:00:00
+nova-0288,NovaBuds Pro: Battery drains fast and I am disappointed.,5,support,2026-07-18T00:00:00
+nova-0289,NovaBuds Pro: Setup was easy and smooth.,1,support,2026-07-19T00:00:00
+nova-0290,NovaBuds Pro: Setup was easy and smooth.,3,app_store,2026-07-20T00:00:00
+nova-0291,NovaBuds Pro: Bluetooth disconnects sometimes.,2,support,2026-07-21T00:00:00
+nova-0292,NovaBuds Pro: Excellent quality and very reliable.,4,support,2026-07-22T00:00:00
+nova-0293,NovaBuds Pro: Excellent quality and very reliable.,5,app_store,2026-07-23T00:00:00
+nova-0294,"NovaBuds Pro: Works as expected, nothing special.",4,app_store,2026-07-24T00:00:00
+nova-0295,NovaBuds Pro: Battery drains fast and I am disappointed.,4,web,2026-07-25T00:00:00
+nova-0296,NovaBuds Pro: Setup was easy and smooth.,1,web,2026-07-26T00:00:00
+nova-0297,NovaBuds Pro: Bluetooth disconnects sometimes.,2,support,2026-07-27T00:00:00
+nova-0298,NovaBuds Pro: Bluetooth disconnects sometimes.,2,web,2026-07-28T00:00:00
+nova-0299,NovaBuds Pro: Battery drains fast and I am disappointed.,5,support,2026-07-29T00:00:00
+nova-0300,NovaBuds Pro: I wish it had an offline mode.,1,app_store,2026-07-30T00:00:00
+nova-0301,"NovaBuds Pro: Works as expected, nothing special.",4,support,2026-07-31T00:00:00
+nova-0302,NovaBuds Pro: Setup was easy and smooth.,4,support,2026-08-01T00:00:00
+nova-0303,"NovaBuds Pro: Works as expected, nothing special.",4,web,2026-08-02T00:00:00
+nova-0304,NovaBuds Pro: Bluetooth disconnects sometimes.,4,support,2026-08-03T00:00:00
+nova-0305,NovaBuds Pro: Excellent quality and very reliable.,2,support,2026-08-04T00:00:00
+nova-0306,"NovaBuds Pro: Works as expected, nothing special.",1,app_store,2026-08-05T00:00:00
+nova-0307,NovaBuds Pro: Setup was easy and smooth.,1,support,2026-08-06T00:00:00
+nova-0308,NovaBuds Pro: I wish it had an offline mode.,3,app_store,2026-08-07T00:00:00
+nova-0309,NovaBuds Pro: Setup was easy and smooth.,4,web,2026-08-08T00:00:00
+nova-0310,NovaBuds Pro: Battery drains fast and I am disappointed.,1,app_store,2026-08-09T00:00:00
+nova-0311,NovaBuds Pro: I wish it had an offline mode.,4,support,2026-08-10T00:00:00
+nova-0312,NovaBuds Pro: Battery drains fast and I am disappointed.,3,app_store,2026-08-11T00:00:00
+nova-0313,NovaBuds Pro: I wish it had an offline mode.,3,web,2026-08-12T00:00:00
+nova-0314,NovaBuds Pro: Bluetooth disconnects sometimes.,5,support,2026-08-13T00:00:00
+nova-0315,NovaBuds Pro: Battery drains fast and I am disappointed.,3,web,2026-08-14T00:00:00
+nova-0316,"NovaBuds Pro: Works as expected, nothing special.",4,web,2026-08-15T00:00:00
+nova-0317,NovaBuds Pro: Setup was easy and smooth.,1,web,2026-08-16T00:00:00
+nova-0318,"NovaBuds Pro: Works as expected, nothing special.",3,web,2026-08-17T00:00:00
+nova-0319,NovaBuds Pro: Bluetooth disconnects sometimes.,3,support,2026-08-18T00:00:00
+nova-0320,"NovaBuds Pro: Works as expected, nothing special.",5,web,2026-08-19T00:00:00
+nova-0321,NovaBuds Pro: Battery drains fast and I am disappointed.,4,app_store,2026-08-20T00:00:00
+nova-0322,"NovaBuds Pro: Works as expected, nothing special.",2,web,2026-08-21T00:00:00
+nova-0323,NovaBuds Pro: I wish it had an offline mode.,3,app_store,2026-08-22T00:00:00
+nova-0324,NovaBuds Pro: Setup was easy and smooth.,1,app_store,2026-08-23T00:00:00
+nova-0325,NovaBuds Pro: Bluetooth disconnects sometimes.,5,web,2026-08-24T00:00:00
+nova-0326,NovaBuds Pro: Setup was easy and smooth.,5,app_store,2026-08-25T00:00:00
+nova-0327,NovaBuds Pro: Bluetooth disconnects sometimes.,3,app_store,2026-08-26T00:00:00
+nova-0328,NovaBuds Pro: Excellent quality and very reliable.,1,app_store,2026-08-27T00:00:00
+nova-0329,NovaBuds Pro: Bluetooth disconnects sometimes.,5,support,2026-08-28T00:00:00
+nova-0330,NovaBuds Pro: Excellent quality and very reliable.,5,support,2026-08-29T00:00:00
+nova-0331,NovaBuds Pro: Setup was easy and smooth.,4,support,2026-08-30T00:00:00
+nova-0332,NovaBuds Pro: Battery drains fast and I am disappointed.,5,support,2026-08-31T00:00:00
+nova-0333,NovaBuds Pro: Excellent quality and very reliable.,2,app_store,2026-09-01T00:00:00
+nova-0334,NovaBuds Pro: I wish it had an offline mode.,4,support,2026-09-02T00:00:00
+nova-0335,NovaBuds Pro: Battery drains fast and I am disappointed.,1,support,2026-09-03T00:00:00
+nova-0336,NovaBuds Pro: Battery drains fast and I am disappointed.,1,web,2026-09-04T00:00:00
+nova-0337,NovaBuds Pro: Excellent quality and very reliable.,1,web,2026-09-05T00:00:00
+nova-0338,NovaBuds Pro: Battery drains fast and I am disappointed.,3,support,2026-09-06T00:00:00
+nova-0339,NovaBuds Pro: I wish it had an offline mode.,3,web,2026-09-07T00:00:00
+nova-0340,NovaBuds Pro: Battery drains fast and I am disappointed.,4,app_store,2026-09-08T00:00:00
+nova-0341,"NovaBuds Pro: Works as expected, nothing special.",1,web,2026-09-09T00:00:00
+nova-0342,NovaBuds Pro: Setup was easy and smooth.,5,app_store,2026-09-10T00:00:00
+nova-0343,NovaBuds Pro: Bluetooth disconnects sometimes.,5,support,2026-09-11T00:00:00
+nova-0344,NovaBuds Pro: Excellent quality and very reliable.,1,web,2026-09-12T00:00:00
+nova-0345,NovaBuds Pro: Setup was easy and smooth.,4,web,2026-09-13T00:00:00
+nova-0346,NovaBuds Pro: Excellent quality and very reliable.,1,support,2026-09-14T00:00:00
+nova-0347,NovaBuds Pro: Bluetooth disconnects sometimes.,5,support,2026-09-15T00:00:00
+nova-0348,NovaBuds Pro: I wish it had an offline mode.,2,web,2026-09-16T00:00:00
+nova-0349,NovaBuds Pro: Bluetooth disconnects sometimes.,5,app_store,2026-09-17T00:00:00
+nova-0350,NovaBuds Pro: Excellent quality and very reliable.,4,app_store,2026-09-18T00:00:00
+nova-0351,NovaBuds Pro: Battery drains fast and I am disappointed.,1,web,2026-09-19T00:00:00
+nova-0352,NovaBuds Pro: Excellent quality and very reliable.,1,support,2026-09-20T00:00:00
+nova-0353,NovaBuds Pro: I wish it had an offline mode.,1,app_store,2026-09-21T00:00:00
+nova-0354,NovaBuds Pro: Battery drains fast and I am disappointed.,1,app_store,2026-09-22T00:00:00
+nova-0355,NovaBuds Pro: Bluetooth disconnects sometimes.,1,web,2026-09-23T00:00:00
+nova-0356,NovaBuds Pro: I wish it had an offline mode.,5,app_store,2026-09-24T00:00:00
+nova-0357,NovaBuds Pro: Bluetooth disconnects sometimes.,2,app_store,2026-09-25T00:00:00
+nova-0358,"NovaBuds Pro: Works as expected, nothing special.",2,support,2026-09-26T00:00:00
+nova-0359,NovaBuds Pro: Excellent quality and very reliable.,3,support,2026-09-27T00:00:00
+nova-0360,NovaBuds Pro: Setup was easy and smooth.,4,web,2026-09-28T00:00:00
+nova-0361,NovaBuds Pro: I wish it had an offline mode.,3,app_store,2026-06-01T00:00:00
+nova-0362,NovaBuds Pro: I wish it had an offline mode.,1,app_store,2026-06-02T00:00:00
+nova-0363,NovaBuds Pro: Excellent quality and very reliable.,1,support,2026-06-03T00:00:00
+nova-0364,NovaBuds Pro: I wish it had an offline mode.,5,app_store,2026-06-04T00:00:00
+nova-0365,NovaBuds Pro: Bluetooth disconnects sometimes.,3,web,2026-06-05T00:00:00
+nova-0366,NovaBuds Pro: I wish it had an offline mode.,5,app_store,2026-06-06T00:00:00
+nova-0367,NovaBuds Pro: Bluetooth disconnects sometimes.,5,app_store,2026-06-07T00:00:00
+nova-0368,"NovaBuds Pro: Works as expected, nothing special.",3,support,2026-06-08T00:00:00
+nova-0369,NovaBuds Pro: I wish it had an offline mode.,4,web,2026-06-09T00:00:00
+nova-0370,NovaBuds Pro: I wish it had an offline mode.,2,app_store,2026-06-10T00:00:00
+nova-0371,NovaBuds Pro: Excellent quality and very reliable.,3,support,2026-06-11T00:00:00
+nova-0372,NovaBuds Pro: Battery drains fast and I am disappointed.,4,web,2026-06-12T00:00:00
+nova-0373,NovaBuds Pro: Bluetooth disconnects sometimes.,4,web,2026-06-13T00:00:00
+nova-0374,NovaBuds Pro: Setup was easy and smooth.,3,web,2026-06-14T00:00:00
+nova-0375,"NovaBuds Pro: Works as expected, nothing special.",1,support,2026-06-15T00:00:00
+nova-0376,NovaBuds Pro: I wish it had an offline mode.,5,web,2026-06-16T00:00:00
+nova-0377,NovaBuds Pro: Setup was easy and smooth.,1,app_store,2026-06-17T00:00:00
+nova-0378,NovaBuds Pro: Setup was easy and smooth.,3,support,2026-06-18T00:00:00
+nova-0379,NovaBuds Pro: Bluetooth disconnects sometimes.,2,web,2026-06-19T00:00:00
+nova-0380,NovaBuds Pro: Bluetooth disconnects sometimes.,4,support,2026-06-20T00:00:00
+nova-0381,NovaBuds Pro: Battery drains fast and I am disappointed.,4,web,2026-06-21T00:00:00
+nova-0382,NovaBuds Pro: I wish it had an offline mode.,1,web,2026-06-22T00:00:00
+nova-0383,"NovaBuds Pro: Works as expected, nothing special.",3,web,2026-06-23T00:00:00
+nova-0384,NovaBuds Pro: Battery drains fast and I am disappointed.,5,app_store,2026-06-24T00:00:00
+nova-0385,"NovaBuds Pro: Works as expected, nothing special.",2,support,2026-06-25T00:00:00
+nova-0386,NovaBuds Pro: Battery drains fast and I am disappointed.,3,support,2026-06-26T00:00:00
+nova-0387,NovaBuds Pro: I wish it had an offline mode.,4,web,2026-06-27T00:00:00
+nova-0388,NovaBuds Pro: Setup was easy and smooth.,1,support,2026-06-28T00:00:00
+nova-0389,NovaBuds Pro: Setup was easy and smooth.,4,web,2026-06-29T00:00:00
+nova-0390,NovaBuds Pro: Battery drains fast and I am disappointed.,2,web,2026-06-30T00:00:00
+nova-0391,NovaBuds Pro: Setup was easy and smooth.,1,support,2026-07-01T00:00:00
+nova-0392,NovaBuds Pro: Bluetooth disconnects sometimes.,4,support,2026-07-02T00:00:00
+nova-0393,NovaBuds Pro: Battery drains fast and I am disappointed.,3,support,2026-07-03T00:00:00
+nova-0394,NovaBuds Pro: Excellent quality and very reliable.,4,web,2026-07-04T00:00:00
+nova-0395,NovaBuds Pro: Setup was easy and smooth.,1,support,2026-07-05T00:00:00
+nova-0396,"NovaBuds Pro: Works as expected, nothing special.",1,app_store,2026-07-06T00:00:00
+nova-0397,NovaBuds Pro: Bluetooth disconnects sometimes.,5,support,2026-07-07T00:00:00
+nova-0398,"NovaBuds Pro: Works as expected, nothing special.",5,web,2026-07-08T00:00:00
+nova-0399,NovaBuds Pro: Bluetooth disconnects sometimes.,5,support,2026-07-09T00:00:00
+nova-0400,NovaBuds Pro: Battery drains fast and I am disappointed.,2,app_store,2026-07-10T00:00:00

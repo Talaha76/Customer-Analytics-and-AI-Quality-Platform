@@ -1,0 +1,401 @@
+id,review,rating,source,created_at
+nova-0001,"NovaPhone X: Works as expected, nothing special.",2,web,2026-06-01T00:00:00
+nova-0002,NovaPhone X: I wish it had an offline mode.,1,app_store,2026-06-02T00:00:00
+nova-0003,NovaPhone X: Setup was easy and smooth.,1,web,2026-06-03T00:00:00
+nova-0004,NovaPhone X: Setup was easy and smooth.,1,support,2026-06-04T00:00:00
+nova-0005,NovaPhone X: Battery drains fast and I am disappointed.,1,app_store,2026-06-05T00:00:00
+nova-0006,NovaPhone X: Bluetooth disconnects sometimes.,4,app_store,2026-06-06T00:00:00
+nova-0007,NovaPhone X: Battery drains fast and I am disappointed.,1,support,2026-06-07T00:00:00
+nova-0008,NovaPhone X: Bluetooth disconnects sometimes.,1,support,2026-06-08T00:00:00
+nova-0009,NovaPhone X: Excellent quality and very reliable.,2,support,2026-06-09T00:00:00
+nova-0010,NovaPhone X: I wish it had an offline mode.,5,app_store,2026-06-10T00:00:00
+nova-0011,NovaPhone X: Setup was easy and smooth.,5,web,2026-06-11T00:00:00
+nova-0012,NovaPhone X: Excellent quality and very reliable.,2,app_store,2026-06-12T00:00:00
+nova-0013,NovaPhone X: Setup was easy and smooth.,2,web,2026-06-13T00:00:00
+nova-0014,NovaPhone X: Bluetooth disconnects sometimes.,2,support,2026-06-14T00:00:00
+nova-0015,NovaPhone X: Excellent quality and very reliable.,5,web,2026-06-15T00:00:00
+nova-0016,NovaPhone X: Setup was easy and smooth.,2,app_store,2026-06-16T00:00:00
+nova-0017,NovaPhone X: Setup was easy and smooth.,5,support,2026-06-17T00:00:00
+nova-0018,NovaPhone X: Battery drains fast and I am disappointed.,3,app_store,2026-06-18T00:00:00
+nova-0019,NovaPhone X: Setup was easy and smooth.,1,support,2026-06-19T00:00:00
+nova-0020,NovaPhone X: Excellent quality and very reliable.,5,app_store,2026-06-20T00:00:00
+nova-0021,NovaPhone X: Bluetooth disconnects sometimes.,5,web,2026-06-21T00:00:00
+nova-0022,"NovaPhone X: Works as expected, nothing special.",4,support,2026-06-22T00:00:00
+nova-0023,NovaPhone X: Bluetooth disconnects sometimes.,3,web,2026-06-23T00:00:00
+nova-0024,NovaPhone X: Battery drains fast and I am disappointed.,2,support,2026-06-24T00:00:00
+nova-0025,NovaPhone X: Battery drains fast and I am disappointed.,1,support,2026-06-25T00:00:00
+nova-0026,"NovaPhone X: Works as expected, nothing special.",5,web,2026-06-26T00:00:00
+nova-0027,"NovaPhone X: Works as expected, nothing special.",4,web,2026-06-27T00:00:00
+nova-0028,NovaPhone X: Setup was easy and smooth.,1,app_store,2026-06-28T00:00:00
+nova-0029,NovaPhone X: Setup was easy and smooth.,4,app_store,2026-06-29T00:00:00
+nova-0030,"NovaPhone X: Works as expected, nothing special.",2,web,2026-06-30T00:00:00
+nova-0031,NovaPhone X: Bluetooth disconnects sometimes.,1,support,2026-07-01T00:00:00
+nova-0032,NovaPhone X: Excellent quality and very reliable.,5,support,2026-07-02T00:00:00
+nova-0033,"NovaPhone X: Works as expected, nothing special.",3,support,2026-07-03T00:00:00
+nova-0034,"NovaPhone X: Works as expected, nothing special.",5,web,2026-07-04T00:00:00
+nova-0035,NovaPhone X: Setup was easy and smooth.,4,app_store,2026-07-05T00:00:00
+nova-0036,NovaPhone X: Excellent quality and very reliable.,3,web,2026-07-06T00:00:00
+nova-0037,NovaPhone X: I wish it had an offline mode.,1,app_store,2026-07-07T00:00:00
+nova-0038,NovaPhone X: I wish it had an offline mode.,3,support,2026-07-08T00:00:00
+nova-0039,NovaPhone X: Setup was easy and smooth.,4,web,2026-07-09T00:00:00
+nova-0040,NovaPhone X: I wish it had an offline mode.,4,support,2026-07-10T00:00:00
+nova-0041,"NovaPhone X: Works as expected, nothing special.",1,web,2026-07-11T00:00:00
+nova-0042,"NovaPhone X: Works as expected, nothing special.",2,support,2026-07-12T00:00:00
+nova-0043,NovaPhone X: Excellent quality and very reliable.,4,app_store,2026-07-13T00:00:00
+nova-0044,NovaPhone X: Battery drains fast and I am disappointed.,3,app_store,2026-07-14T00:00:00
+nova-0045,NovaPhone X: I wish it had an offline mode.,2,web,2026-07-15T00:00:00
+nova-0046,NovaPhone X: Bluetooth disconnects sometimes.,4,app_store,2026-07-16T00:00:00
+nova-0047,NovaPhone X: Battery drains fast and I am disappointed.,4,web,2026-07-17T00:00:00
+nova-0048,NovaPhone X: Setup was easy and smooth.,3,app_store,2026-07-18T00:00:00
+nova-0049,NovaPhone X: Bluetooth disconnects sometimes.,5,web,2026-07-19T00:00:00
+nova-0050,NovaPhone X: I wish it had an offline mode.,4,web,2026-07-20T00:00:00
+nova-0051,NovaPhone X: I wish it had an offline mode.,4,app_store,2026-07-21T00:00:00
+nova-0052,NovaPhone X: Battery drains fast and I am disappointed.,1,app_store,2026-07-22T00:00:00
+nova-0053,NovaPhone X: Battery drains fast and I am disappointed.,2,support,2026-07-23T00:00:00
+nova-0054,NovaPhone X: Battery drains fast and I am disappointed.,1,web,2026-07-24T00:00:00
+nova-0055,NovaPhone X: Setup was easy and smooth.,2,web,2026-07-25T00:00:00
+nova-0056,"NovaPhone X: Works as expected, nothing special.",1,app_store,2026-07-26T00:00:00
+nova-0057,NovaPhone X: Bluetooth disconnects sometimes.,5,web,2026-07-27T00:00:00
+nova-0058,NovaPhone X: Setup was easy and smooth.,5,web,2026-07-28T00:00:00
+nova-0059,NovaPhone X: Battery drains fast and I am disappointed.,5,support,2026-07-29T00:00:00
+nova-0060,NovaPhone X: I wish it had an offline mode.,1,web,2026-07-30T00:00:00
+nova-0061,NovaPhone X: I wish it had an offline mode.,5,web,2026-07-31T00:00:00
+nova-0062,NovaPhone X: Bluetooth disconnects sometimes.,4,web,2026-08-01T00:00:00
+nova-0063,NovaPhone X: Excellent quality and very reliable.,4,support,2026-08-02T00:00:00
+nova-0064,NovaPhone X: Bluetooth disconnects sometimes.,1,app_store,2026-08-03T00:00:00
+nova-0065,NovaPhone X: Excellent quality and very reliable.,2,web,2026-08-04T00:00:00
+nova-0066,NovaPhone X: Battery drains fast and I am disappointed.,1,web,2026-08-05T00:00:00
+nova-0067,NovaPhone X: Setup was easy and smooth.,1,app_store,2026-08-06T00:00:00
+nova-0068,NovaPhone X: Excellent quality and very reliable.,5,app_store,2026-08-07T00:00:00
+nova-0069,NovaPhone X: Setup was easy and smooth.,1,web,2026-08-08T00:00:00
+nova-0070,NovaPhone X: Setup was easy and smooth.,1,app_store,2026-08-09T00:00:00
+nova-0071,NovaPhone X: Battery drains fast and I am disappointed.,5,web,2026-08-10T00:00:00
+nova-0072,NovaPhone X: Battery drains fast and I am disappointed.,3,web,2026-08-11T00:00:00
+nova-0073,NovaPhone X: Setup was easy and smooth.,3,web,2026-08-12T00:00:00
+nova-0074,NovaPhone X: Excellent quality and very reliable.,1,web,2026-08-13T00:00:00
+nova-0075,NovaPhone X: Bluetooth disconnects sometimes.,4,web,2026-08-14T00:00:00
+nova-0076,"NovaPhone X: Works as expected, nothing special.",1,app_store,2026-08-15T00:00:00
+nova-0077,NovaPhone X: Excellent quality and very reliable.,3,support,2026-08-16T00:00:00
+nova-0078,"NovaPhone X: Works as expected, nothing special.",4,support,2026-08-17T00:00:00
+nova-0079,NovaPhone X: Battery drains fast and I am disappointed.,5,app_store,2026-08-18T00:00:00
+nova-0080,NovaPhone X: Battery drains fast and I am disappointed.,5,web,2026-08-19T00:00:00
+nova-0081,NovaPhone X: Battery drains fast and I am disappointed.,5,app_store,2026-08-20T00:00:00
+nova-0082,NovaPhone X: Setup was easy and smooth.,3,support,2026-08-21T00:00:00
+nova-0083,NovaPhone X: Excellent quality and very reliable.,3,support,2026-08-22T00:00:00
+nova-0084,"NovaPhone X: Works as expected, nothing special.",2,web,2026-08-23T00:00:00
+nova-0085,NovaPhone X: Battery drains fast and I am disappointed.,5,support,2026-08-24T00:00:00
+nova-0086,NovaPhone X: Setup was easy and smooth.,3,support,2026-08-25T00:00:00
+nova-0087,NovaPhone X: Battery drains fast and I am disappointed.,5,app_store,2026-08-26T00:00:00
+nova-0088,NovaPhone X: Battery drains fast and I am disappointed.,4,support,2026-08-27T00:00:00
+nova-0089,NovaPhone X: Battery drains fast and I am disappointed.,2,support,2026-08-28T00:00:00
+nova-0090,NovaPhone X: Bluetooth disconnects sometimes.,3,support,2026-08-29T00:00:00
+nova-0091,NovaPhone X: Excellent quality and very reliable.,1,web,2026-08-30T00:00:00
+nova-0092,NovaPhone X: Bluetooth disconnects sometimes.,3,app_store,2026-08-31T00:00:00
+nova-0093,NovaPhone X: I wish it had an offline mode.,5,web,2026-09-01T00:00:00
+nova-0094,NovaPhone X: Bluetooth disconnects sometimes.,3,web,2026-09-02T00:00:00
+nova-0095,NovaPhone X: Excellent quality and very reliable.,2,app_store,2026-09-03T00:00:00
+nova-0096,NovaPhone X: Battery drains fast and I am disappointed.,4,app_store,2026-09-04T00:00:00
+nova-0097,"NovaPhone X: Works as expected, nothing special.",2,web,2026-09-05T00:00:00
+nova-0098,NovaPhone X: Setup was easy and smooth.,5,app_store,2026-09-06T00:00:00
+nova-0099,NovaPhone X: Bluetooth disconnects sometimes.,3,support,2026-09-07T00:00:00
+nova-0100,NovaPhone X: Excellent quality and very reliable.,1,web,2026-09-08T00:00:00
+nova-0101,NovaPhone X: I wish it had an offline mode.,2,web,2026-09-09T00:00:00
+nova-0102,NovaPhone X: Battery drains fast and I am disappointed.,4,support,2026-09-10T00:00:00
+nova-0103,"NovaPhone X: Works as expected, nothing special.",1,support,2026-09-11T00:00:00
+nova-0104,NovaPhone X: Bluetooth disconnects sometimes.,4,web,2026-09-12T00:00:00
+nova-0105,NovaPhone X: I wish it had an offline mode.,1,support,2026-09-13T00:00:00
+nova-0106,NovaPhone X: Battery drains fast and I am disappointed.,2,app_store,2026-09-14T00:00:00
+nova-0107,NovaPhone X: Excellent quality and very reliable.,2,support,2026-09-15T00:00:00
+nova-0108,NovaPhone X: Bluetooth disconnects sometimes.,2,support,2026-09-16T00:00:00
+nova-0109,NovaPhone X: Setup was easy and smooth.,4,support,2026-09-17T00:00:00
+nova-0110,"NovaPhone X: Works as expected, nothing special.",2,support,2026-09-18T00:00:00
+nova-0111,NovaPhone X: Setup was easy and smooth.,2,app_store,2026-09-19T00:00:00
+nova-0112,NovaPhone X: Excellent quality and very reliable.,1,support,2026-09-20T00:00:00
+nova-0113,NovaPhone X: I wish it had an offline mode.,2,web,2026-09-21T00:00:00
+nova-0114,NovaPhone X: Battery drains fast and I am disappointed.,2,app_store,2026-09-22T00:00:00
+nova-0115,"NovaPhone X: Works as expected, nothing special.",2,web,2026-09-23T00:00:00
+nova-0116,NovaPhone X: Setup was easy and smooth.,2,support,2026-09-24T00:00:00
+nova-0117,"NovaPhone X: Works as expected, nothing special.",3,support,2026-09-25T00:00:00
+nova-0118,NovaPhone X: Bluetooth disconnects sometimes.,2,app_store,2026-09-26T00:00:00
+nova-0119,NovaPhone X: I wish it had an offline mode.,3,web,2026-09-27T00:00:00
+nova-0120,NovaPhone X: I wish it had an offline mode.,5,support,2026-09-28T00:00:00
+nova-0121,NovaPhone X: Bluetooth disconnects sometimes.,5,app_store,2026-06-01T00:00:00
+nova-0122,NovaPhone X: Setup was easy and smooth.,2,support,2026-06-02T00:00:00
+nova-0123,NovaPhone X: Setup was easy and smooth.,1,web,2026-06-03T00:00:00
+nova-0124,NovaPhone X: Battery drains fast and I am disappointed.,5,app_store,2026-06-04T00:00:00
+nova-0125,NovaPhone X: Battery drains fast and I am disappointed.,2,app_store,2026-06-05T00:00:00
+nova-0126,NovaPhone X: Bluetooth disconnects sometimes.,5,support,2026-06-06T00:00:00
+nova-0127,NovaPhone X: Excellent quality and very reliable.,5,app_store,2026-06-07T00:00:00
+nova-0128,"NovaPhone X: Works as expected, nothing special.",5,support,2026-06-08T00:00:00
+nova-0129,NovaPhone X: Setup was easy and smooth.,4,app_store,2026-06-09T00:00:00
+nova-0130,NovaPhone X: Setup was easy and smooth.,1,app_store,2026-06-10T00:00:00
+nova-0131,NovaPhone X: Battery drains fast and I am disappointed.,3,app_store,2026-06-11T00:00:00
+nova-0132,NovaPhone X: Excellent quality and very reliable.,5,web,2026-06-12T00:00:00
+nova-0133,NovaPhone X: Setup was easy and smooth.,1,app_store,2026-06-13T00:00:00
+nova-0134,NovaPhone X: Bluetooth disconnects sometimes.,3,support,2026-06-14T00:00:00
+nova-0135,NovaPhone X: Setup was easy and smooth.,5,support,2026-06-15T00:00:00
+nova-0136,NovaPhone X: Battery drains fast and I am disappointed.,3,web,2026-06-16T00:00:00
+nova-0137,NovaPhone X: Setup was easy and smooth.,5,web,2026-06-17T00:00:00
+nova-0138,NovaPhone X: Setup was easy and smooth.,2,support,2026-06-18T00:00:00
+nova-0139,NovaPhone X: Setup was easy and smooth.,3,support,2026-06-19T00:00:00
+nova-0140,NovaPhone X: Battery drains fast and I am disappointed.,4,app_store,2026-06-20T00:00:00
+nova-0141,NovaPhone X: Bluetooth disconnects sometimes.,1,web,2026-06-21T00:00:00
+nova-0142,NovaPhone X: Bluetooth disconnects sometimes.,3,app_store,2026-06-22T00:00:00
+nova-0143,NovaPhone X: I wish it had an offline mode.,2,web,2026-06-23T00:00:00
+nova-0144,NovaPhone X: Excellent quality and very reliable.,2,support,2026-06-24T00:00:00
+nova-0145,"NovaPhone X: Works as expected, nothing special.",1,app_store,2026-06-25T00:00:00
+nova-0146,NovaPhone X: I wish it had an offline mode.,3,app_store,2026-06-26T00:00:00
+nova-0147,"NovaPhone X: Works as expected, nothing special.",2,web,2026-06-27T00:00:00
+nova-0148,NovaPhone X: Battery drains fast and I am disappointed.,1,web,2026-06-28T00:00:00
+nova-0149,NovaPhone X: Bluetooth disconnects sometimes.,2,support,2026-06-29T00:00:00
+nova-0150,NovaPhone X: Battery drains fast and I am disappointed.,2,support,2026-06-30T00:00:00
+nova-0151,NovaPhone X: Bluetooth disconnects sometimes.,5,web,2026-07-01T00:00:00
+nova-0152,"NovaPhone X: Works as expected, nothing special.",4,app_store,2026-07-02T00:00:00
+nova-0153,"NovaPhone X: Works as expected, nothing special.",3,app_store,2026-07-03T00:00:00
+nova-0154,NovaPhone X: I wish it had an offline mode.,3,app_store,2026-07-04T00:00:00
+nova-0155,"NovaPhone X: Works as expected, nothing special.",5,web,2026-07-05T00:00:00
+nova-0156,NovaPhone X: Bluetooth disconnects sometimes.,1,web,2026-07-06T00:00:00
+nova-0157,"NovaPhone X: Works as expected, nothing special.",5,support,2026-07-07T00:00:00
+nova-0158,"NovaPhone X: Works as expected, nothing special.",5,app_store,2026-07-08T00:00:00
+nova-0159,NovaPhone X: Excellent quality and very reliable.,2,app_store,2026-07-09T00:00:00
+nova-0160,NovaPhone X: Excellent quality and very reliable.,3,web,2026-07-10T00:00:00
+nova-0161,NovaPhone X: Excellent quality and very reliable.,2,web,2026-07-11T00:00:00
+nova-0162,NovaPhone X: Battery drains fast and I am disappointed.,4,support,2026-07-12T00:00:00
+nova-0163,"NovaPhone X: Works as expected, nothing special.",4,app_store,2026-07-13T00:00:00
+nova-0164,NovaPhone X: Setup was easy and smooth.,5,support,2026-07-14T00:00:00
+nova-0165,NovaPhone X: Bluetooth disconnects sometimes.,3,app_store,2026-07-15T00:00:00
+nova-0166,"NovaPhone X: Works as expected, nothing special.",1,support,2026-07-16T00:00:00
+nova-0167,NovaPhone X: Battery drains fast and I am disappointed.,4,app_store,2026-07-17T00:00:00
+nova-0168,"NovaPhone X: Works as expected, nothing special.",1,support,2026-07-18T00:00:00
+nova-0169,NovaPhone X: Excellent quality and very reliable.,3,app_store,2026-07-19T00:00:00
+nova-0170,NovaPhone X: Setup was easy and smooth.,2,app_store,2026-07-20T00:00:00
+nova-0171,"NovaPhone X: Works as expected, nothing special.",1,web,2026-07-21T00:00:00
+nova-0172,NovaPhone X: Excellent quality and very reliable.,3,support,2026-07-22T00:00:00
+nova-0173,NovaPhone X: Bluetooth disconnects sometimes.,3,support,2026-07-23T00:00:00
+nova-0174,NovaPhone X: Battery drains fast and I am disappointed.,1,support,2026-07-24T00:00:00
+nova-0175,NovaPhone X: I wish it had an offline mode.,2,app_store,2026-07-25T00:00:00
+nova-0176,NovaPhone X: Battery drains fast and I am disappointed.,3,app_store,2026-07-26T00:00:00
+nova-0177,NovaPhone X: Battery drains fast and I am disappointed.,2,web,2026-07-27T00:00:00
+nova-0178,NovaPhone X: I wish it had an offline mode.,3,support,2026-07-28T00:00:00
+nova-0179,NovaPhone X: Battery drains fast and I am disappointed.,3,web,2026-07-29T00:00:00
+nova-0180,NovaPhone X: Setup was easy and smooth.,2,web,2026-07-30T00:00:00
+nova-0181,"NovaPhone X: Works as expected, nothing special.",1,web,2026-07-31T00:00:00
+nova-0182,NovaPhone X: Excellent quality and very reliable.,1,app_store,2026-08-01T00:00:00
+nova-0183,NovaPhone X: I wish it had an offline mode.,5,support,2026-08-02T00:00:00
+nova-0184,NovaPhone X: Battery drains fast and I am disappointed.,5,web,2026-08-03T00:00:00
+nova-0185,NovaPhone X: Battery drains fast and I am disappointed.,4,app_store,2026-08-04T00:00:00
+nova-0186,NovaPhone X: I wish it had an offline mode.,4,support,2026-08-05T00:00:00
+nova-0187,NovaPhone X: Bluetooth disconnects sometimes.,5,web,2026-08-06T00:00:00
+nova-0188,NovaPhone X: Setup was easy and smooth.,3,support,2026-08-07T00:00:00
+nova-0189,NovaPhone X: Battery drains fast and I am disappointed.,2,web,2026-08-08T00:00:00
+nova-0190,NovaPhone X: Battery drains fast and I am disappointed.,2,web,2026-08-09T00:00:00
+nova-0191,"NovaPhone X: Works as expected, nothing special.",1,app_store,2026-08-10T00:00:00
+nova-0192,NovaPhone X: Excellent quality and very reliable.,1,support,2026-08-11T00:00:00
+nova-0193,NovaPhone X: I wish it had an offline mode.,3,web,2026-08-12T00:00:00
+nova-0194,NovaPhone X: Battery drains fast and I am disappointed.,1,app_store,2026-08-13T00:00:00
+nova-0195,NovaPhone X: I wish it had an offline mode.,4,support,2026-08-14T00:00:00
+nova-0196,NovaPhone X: I wish it had an offline mode.,3,support,2026-08-15T00:00:00
+nova-0197,NovaPhone X: Battery drains fast and I am disappointed.,3,app_store,2026-08-16T00:00:00
+nova-0198,NovaPhone X: Bluetooth disconnects sometimes.,2,app_store,2026-08-17T00:00:00
+nova-0199,"NovaPhone X: Works as expected, nothing special.",4,app_store,2026-08-18T00:00:00
+nova-0200,"NovaPhone X: Works as expected, nothing special.",3,web,2026-08-19T00:00:00
+nova-0201,NovaPhone X: Setup was easy and smooth.,3,app_store,2026-08-20T00:00:00
+nova-0202,NovaPhone X: Excellent quality and very reliable.,3,app_store,2026-08-21T00:00:00
+nova-0203,"NovaPhone X: Works as expected, nothing special.",2,app_store,2026-08-22T00:00:00
+nova-0204,"NovaPhone X: Works as expected, nothing special.",4,app_store,2026-08-23T00:00:00
+nova-0205,NovaPhone X: Bluetooth disconnects sometimes.,3,support,2026-08-24T00:00:00
+nova-0206,NovaPhone X: I wish it had an offline mode.,2,app_store,2026-08-25T00:00:00
+nova-0207,NovaPhone X: Setup was easy and smooth.,1,app_store,2026-08-26T00:00:00
+nova-0208,"NovaPhone X: Works as expected, nothing special.",1,app_store,2026-08-27T00:00:00
+nova-0209,NovaPhone X: Bluetooth disconnects sometimes.,5,app_store,2026-08-28T00:00:00
+nova-0210,NovaPhone X: Bluetooth disconnects sometimes.,1,web,2026-08-29T00:00:00
+nova-0211,"NovaPhone X: Works as expected, nothing special.",2,app_store,2026-08-30T00:00:00
+nova-0212,NovaPhone X: Setup was easy and smooth.,5,app_store,2026-08-31T00:00:00
+nova-0213,NovaPhone X: I wish it had an offline mode.,5,web,2026-09-01T00:00:00
+nova-0214,"NovaPhone X: Works as expected, nothing special.",4,app_store,2026-09-02T00:00:00
+nova-0215,"NovaPhone X: Works as expected, nothing special.",5,support,2026-09-03T00:00:00
+nova-0216,NovaPhone X: Battery drains fast and I am disappointed.,1,support,2026-09-04T00:00:00
+nova-0217,NovaPhone X: Setup was easy and smooth.,4,support,2026-09-05T00:00:00
+nova-0218,NovaPhone X: I wish it had an offline mode.,5,app_store,2026-09-06T00:00:00
+nova-0219,NovaPhone X: Setup was easy and smooth.,5,support,2026-09-07T00:00:00
+nova-0220,NovaPhone X: Excellent quality and very reliable.,5,support,2026-09-08T00:00:00
+nova-0221,NovaPhone X: I wish it had an offline mode.,2,app_store,2026-09-09T00:00:00
+nova-0222,NovaPhone X: Excellent quality and very reliable.,1,app_store,2026-09-10T00:00:00
+nova-0223,NovaPhone X: I wish it had an offline mode.,3,app_store,2026-09-11T00:00:00
+nova-0224,NovaPhone X: Bluetooth disconnects sometimes.,4,support,2026-09-12T00:00:00
+nova-0225,NovaPhone X: Excellent quality and very reliable.,1,support,2026-09-13T00:00:00
+nova-0226,NovaPhone X: Setup was easy and smooth.,2,web,2026-09-14T00:00:00
+nova-0227,"NovaPhone X: Works as expected, nothing special.",1,web,2026-09-15T00:00:00
+nova-0228,NovaPhone X: Excellent quality and very reliable.,5,support,2026-09-16T00:00:00
+nova-0229,NovaPhone X: Excellent quality and very reliable.,5,app_store,2026-09-17T00:00:00
+nova-0230,NovaPhone X: I wish it had an offline mode.,4,web,2026-09-18T00:00:00
+nova-0231,NovaPhone X: Excellent quality and very reliable.,3,app_store,2026-09-19T00:00:00
+nova-0232,NovaPhone X: I wish it had an offline mode.,2,app_store,2026-09-20T00:00:00
+nova-0233,NovaPhone X: I wish it had an offline mode.,4,web,2026-09-21T00:00:00
+nova-0234,NovaPhone X: Bluetooth disconnects sometimes.,1,web,2026-09-22T00:00:00
+nova-0235,NovaPhone X: I wish it had an offline mode.,3,app_store,2026-09-23T00:00:00
+nova-0236,NovaPhone X: Setup was easy and smooth.,2,app_store,2026-09-24T00:00:00
+nova-0237,NovaPhone X: Setup was easy and smooth.,2,web,2026-09-25T00:00:00
+nova-0238,"NovaPhone X: Works as expected, nothing special.",3,support,2026-09-26T00:00:00
+nova-0239,NovaPhone X: Setup was easy and smooth.,2,app_store,2026-09-27T00:00:00
+nova-0240,NovaPhone X: Bluetooth disconnects sometimes.,1,web,2026-09-28T00:00:00
+nova-0241,"NovaPhone X: Works as expected, nothing special.",1,support,2026-06-01T00:00:00
+nova-0242,NovaPhone X: Battery drains fast and I am disappointed.,4,web,2026-06-02T00:00:00
+nova-0243,NovaPhone X: I wish it had an offline mode.,5,web,2026-06-03T00:00:00
+nova-0244,NovaPhone X: Bluetooth disconnects sometimes.,4,web,2026-06-04T00:00:00
+nova-0245,NovaPhone X: Excellent quality and very reliable.,5,app_store,2026-06-05T00:00:00
+nova-0246,"NovaPhone X: Works as expected, nothing special.",1,web,2026-06-06T00:00:00
+nova-0247,NovaPhone X: Excellent quality and very reliable.,3,web,2026-06-07T00:00:00
+nova-0248,NovaPhone X: Excellent quality and very reliable.,5,web,2026-06-08T00:00:00
+nova-0249,"NovaPhone X: Works as expected, nothing special.",4,app_store,2026-06-09T00:00:00
+nova-0250,NovaPhone X: Battery drains fast and I am disappointed.,1,support,2026-06-10T00:00:00
+nova-0251,NovaPhone X: Excellent quality and very reliable.,2,support,2026-06-11T00:00:00
+nova-0252,NovaPhone X: Setup was easy and smooth.,3,web,2026-06-12T00:00:00
+nova-0253,NovaPhone X: Battery drains fast and I am disappointed.,5,support,2026-06-13T00:00:00
+nova-0254,NovaPhone X: Setup was easy and smooth.,3,app_store,2026-06-14T00:00:00
+nova-0255,NovaPhone X: I wish it had an offline mode.,3,app_store,2026-06-15T00:00:00
+nova-0256,NovaPhone X: Bluetooth disconnects sometimes.,4,web,2026-06-16T00:00:00
+nova-0257,NovaPhone X: Excellent quality and very reliable.,2,app_store,2026-06-17T00:00:00
+nova-0258,NovaPhone X: Bluetooth disconnects sometimes.,4,web,2026-06-18T00:00:00
+nova-0259,"NovaPhone X: Works as expected, nothing special.",2,web,2026-06-19T00:00:00
+nova-0260,"NovaPhone X: Works as expected, nothing special.",4,web,2026-06-20T00:00:00
+nova-0261,NovaPhone X: Excellent quality and very reliable.,3,app_store,2026-06-21T00:00:00
+nova-0262,"NovaPhone X: Works as expected, nothing special.",3,web,2026-06-22T00:00:00
+nova-0263,NovaPhone X: Excellent quality and very reliable.,2,support,2026-06-23T00:00:00
+nova-0264,NovaPhone X: Excellent quality and very reliable.,3,web,2026-06-24T00:00:00
+nova-0265,"NovaPhone X: Works as expected, nothing special.",1,web,2026-06-25T00:00:00
+nova-0266,NovaPhone X: Bluetooth disconnects sometimes.,5,app_store,2026-06-26T00:00:00
+nova-0267,"NovaPhone X: Works as expected, nothing special.",4,web,2026-06-27T00:00:00
+nova-0268,NovaPhone X: Excellent quality and very reliable.,3,app_store,2026-06-28T00:00:00
+nova-0269,NovaPhone X: Excellent quality and very reliable.,3,support,2026-06-29T00:00:00
+nova-0270,NovaPhone X: Battery drains fast and I am disappointed.,2,web,2026-06-30T00:00:00
+nova-0271,NovaPhone X: Bluetooth disconnects sometimes.,5,web,2026-07-01T00:00:00
+nova-0272,NovaPhone X: Battery drains fast and I am disappointed.,3,web,2026-07-02T00:00:00
+nova-0273,NovaPhone X: Excellent quality and very reliable.,4,support,2026-07-03T00:00:00
+nova-0274,NovaPhone X: Setup was easy and smooth.,2,support,2026-07-04T00:00:00
+nova-0275,NovaPhone X: Excellent quality and very reliable.,1,support,2026-07-05T00:00:00
+nova-0276,NovaPhone X: Bluetooth disconnects sometimes.,4,support,2026-07-06T00:00:00
+nova-0277,NovaPhone X: Battery drains fast and I am disappointed.,3,web,2026-07-07T00:00:00
+nova-0278,NovaPhone X: Excellent quality and very reliable.,5,app_store,2026-07-08T00:00:00
+nova-0279,NovaPhone X: Battery drains fast and I am disappointed.,4,web,2026-07-09T00:00:00
+nova-0280,"NovaPhone X: Works as expected, nothing special.",3,web,2026-07-10T00:00:00
+nova-0281,"NovaPhone X: Works as expected, nothing special.",3,web,2026-07-11T00:00:00
+nova-0282,NovaPhone X: I wish it had an offline mode.,2,web,2026-07-12T00:00:00
+nova-0283,NovaPhone X: Bluetooth disconnects sometimes.,5,support,2026-07-13T00:00:00
+nova-0284,NovaPhone X: Bluetooth disconnects sometimes.,1,app_store,2026-07-14T00:00:00
+nova-0285,NovaPhone X: I wish it had an offline mode.,2,app_store,2026-07-15T00:00:00
+nova-0286,NovaPhone X: Battery drains fast and I am disappointed.,5,web,2026-07-16T00:00:00
+nova-0287,NovaPhone X: Setup was easy and smooth.,2,web,2026-07-17T00:00:00
+nova-0288,"NovaPhone X: Works as expected, nothing special.",4,web,2026-07-18T00:00:00
+nova-0289,NovaPhone X: Battery drains fast and I am disappointed.,5,app_store,2026-07-19T00:00:00
+nova-0290,NovaPhone X: Battery drains fast and I am disappointed.,1,app_store,2026-07-20T00:00:00
+nova-0291,"NovaPhone X: Works as expected, nothing special.",5,app_store,2026-07-21T00:00:00
+nova-0292,"NovaPhone X: Works as expected, nothing special.",2,web,2026-07-22T00:00:00
+nova-0293,"NovaPhone X: Works as expected, nothing special.",5,app_store,2026-07-23T00:00:00
+nova-0294,NovaPhone X: Excellent quality and very reliable.,4,web,2026-07-24T00:00:00
+nova-0295,NovaPhone X: Bluetooth disconnects sometimes.,5,app_store,2026-07-25T00:00:00
+nova-0296,NovaPhone X: Bluetooth disconnects sometimes.,3,web,2026-07-26T00:00:00
+nova-0297,NovaPhone X: Excellent quality and very reliable.,4,web,2026-07-27T00:00:00
+nova-0298,NovaPhone X: Setup was easy and smooth.,3,app_store,2026-07-28T00:00:00
+nova-0299,NovaPhone X: I wish it had an offline mode.,5,support,2026-07-29T00:00:00
+nova-0300,NovaPhone X: I wish it had an offline mode.,2,app_store,2026-07-30T00:00:00
+nova-0301,"NovaPhone X: Works as expected, nothing special.",2,web,2026-07-31T00:00:00
+nova-0302,NovaPhone X: Bluetooth disconnects sometimes.,4,web,2026-08-01T00:00:00
+nova-0303,"NovaPhone X: Works as expected, nothing special.",1,app_store,2026-08-02T00:00:00
+nova-0304,NovaPhone X: Excellent quality and very reliable.,4,support,2026-08-03T00:00:00
+nova-0305,NovaPhone X: Bluetooth disconnects sometimes.,5,web,2026-08-04T00:00:00
+nova-0306,NovaPhone X: Excellent quality and very reliable.,1,web,2026-08-05T00:00:00
+nova-0307,NovaPhone X: Setup was easy and smooth.,4,web,2026-08-06T00:00:00
+nova-0308,NovaPhone X: Battery drains fast and I am disappointed.,1,app_store,2026-08-07T00:00:00
+nova-0309,NovaPhone X: Battery drains fast and I am disappointed.,2,support,2026-08-08T00:00:00
+nova-0310,NovaPhone X: I wish it had an offline mode.,1,support,2026-08-09T00:00:00
+nova-0311,NovaPhone X: I wish it had an offline mode.,4,app_store,2026-08-10T00:00:00
+nova-0312,NovaPhone X: Setup was easy and smooth.,1,app_store,2026-08-11T00:00:00
+nova-0313,NovaPhone X: Battery drains fast and I am disappointed.,2,support,2026-08-12T00:00:00
+nova-0314,NovaPhone X: Excellent quality and very reliable.,3,app_store,2026-08-13T00:00:00
+nova-0315,NovaPhone X: I wish it had an offline mode.,3,support,2026-08-14T00:00:00
+nova-0316,NovaPhone X: I wish it had an offline mode.,4,support,2026-08-15T00:00:00
+nova-0317,NovaPhone X: Excellent quality and very reliable.,1,app_store,2026-08-16T00:00:00
+nova-0318,"NovaPhone X: Works as expected, nothing special.",5,support,2026-08-17T00:00:00
+nova-0319,NovaPhone X: Battery drains fast and I am disappointed.,4,web,2026-08-18T00:00:00
+nova-0320,NovaPhone X: Battery drains fast and I am disappointed.,5,app_store,2026-08-19T00:00:00
+nova-0321,NovaPhone X: Excellent quality and very reliable.,5,web,2026-08-20T00:00:00
+nova-0322,NovaPhone X: Bluetooth disconnects sometimes.,3,web,2026-08-21T00:00:00
+nova-0323,NovaPhone X: I wish it had an offline mode.,2,web,2026-08-22T00:00:00
+nova-0324,NovaPhone X: Setup was easy and smooth.,2,support,2026-08-23T00:00:00
+nova-0325,NovaPhone X: Battery drains fast and I am disappointed.,1,web,2026-08-24T00:00:00
+nova-0326,NovaPhone X: I wish it had an offline mode.,3,app_store,2026-08-25T00:00:00
+nova-0327,NovaPhone X: Excellent quality and very reliable.,2,web,2026-08-26T00:00:00
+nova-0328,NovaPhone X: I wish it had an offline mode.,4,app_store,2026-08-27T00:00:00
+nova-0329,"NovaPhone X: Works as expected, nothing special.",2,support,2026-08-28T00:00:00
+nova-0330,NovaPhone X: Bluetooth disconnects sometimes.,3,app_store,2026-08-29T00:00:00
+nova-0331,NovaPhone X: Bluetooth disconnects sometimes.,1,support,2026-08-30T00:00:00
+nova-0332,"NovaPhone X: Works as expected, nothing special.",4,web,2026-08-31T00:00:00
+nova-0333,NovaPhone X: I wish it had an offline mode.,4,app_store,2026-09-01T00:00:00
+nova-0334,NovaPhone X: Excellent quality and very reliable.,3,support,2026-09-02T00:00:00
+nova-0335,NovaPhone X: Setup was easy and smooth.,1,app_store,2026-09-03T00:00:00
+nova-0336,NovaPhone X: Bluetooth disconnects sometimes.,2,web,2026-09-04T00:00:00
+nova-0337,NovaPhone X: Battery drains fast and I am disappointed.,2,web,2026-09-05T00:00:00
+nova-0338,NovaPhone X: Battery drains fast and I am disappointed.,3,web,2026-09-06T00:00:00
+nova-0339,NovaPhone X: Excellent quality and very reliable.,5,web,2026-09-07T00:00:00
+nova-0340,NovaPhone X: Setup was easy and smooth.,2,app_store,2026-09-08T00:00:00
+nova-0341,NovaPhone X: Bluetooth disconnects sometimes.,4,support,2026-09-09T00:00:00
+nova-0342,NovaPhone X: Excellent quality and very reliable.,5,app_store,2026-09-10T00:00:00
+nova-0343,NovaPhone X: Bluetooth disconnects sometimes.,1,app_store,2026-09-11T00:00:00
+nova-0344,NovaPhone X: Excellent quality and very reliable.,5,app_store,2026-09-12T00:00:00
+nova-0345,NovaPhone X: Bluetooth disconnects sometimes.,1,support,2026-09-13T00:00:00
+nova-0346,NovaPhone X: Excellent quality and very reliable.,2,web,2026-09-14T00:00:00
+nova-0347,NovaPhone X: Bluetooth disconnects sometimes.,3,support,2026-09-15T00:00:00
+nova-0348,NovaPhone X: Excellent quality and very reliable.,1,app_store,2026-09-16T00:00:00
+nova-0349,"NovaPhone X: Works as expected, nothing special.",2,app_store,2026-09-17T00:00:00
+nova-0350,NovaPhone X: I wish it had an offline mode.,5,support,2026-09-18T00:00:00
+nova-0351,NovaPhone X: Bluetooth disconnects sometimes.,1,web,2026-09-19T00:00:00
+nova-0352,NovaPhone X: I wish it had an offline mode.,4,web,2026-09-20T00:00:00
+nova-0353,"NovaPhone X: Works as expected, nothing special.",4,app_store,2026-09-21T00:00:00
+nova-0354,NovaPhone X: Excellent quality and very reliable.,1,app_store,2026-09-22T00:00:00
+nova-0355,"NovaPhone X: Works as expected, nothing special.",1,web,2026-09-23T00:00:00
+nova-0356,NovaPhone X: Bluetooth disconnects sometimes.,1,support,2026-09-24T00:00:00
+nova-0357,NovaPhone X: Battery drains fast and I am disappointed.,4,web,2026-09-25T00:00:00
+nova-0358,"NovaPhone X: Works as expected, nothing special.",4,app_store,2026-09-26T00:00:00
+nova-0359,NovaPhone X: Excellent quality and very reliable.,4,app_store,2026-09-27T00:00:00
+nova-0360,"NovaPhone X: Works as expected, nothing special.",5,web,2026-09-28T00:00:00
+nova-0361,NovaPhone X: Battery drains fast and I am disappointed.,3,web,2026-06-01T00:00:00
+nova-0362,NovaPhone X: I wish it had an offline mode.,4,app_store,2026-06-02T00:00:00
+nova-0363,NovaPhone X: I wish it had an offline mode.,4,app_store,2026-06-03T00:00:00
+nova-0364,NovaPhone X: I wish it had an offline mode.,4,app_store,2026-06-04T00:00:00
+nova-0365,NovaPhone X: Bluetooth disconnects sometimes.,1,web,2026-06-05T00:00:00
+nova-0366,NovaPhone X: Excellent quality and very reliable.,1,web,2026-06-06T00:00:00
+nova-0367,NovaPhone X: Battery drains fast and I am disappointed.,1,support,2026-06-07T00:00:00
+nova-0368,"NovaPhone X: Works as expected, nothing special.",3,web,2026-06-08T00:00:00
+nova-0369,"NovaPhone X: Works as expected, nothing special.",5,app_store,2026-06-09T00:00:00
+nova-0370,"NovaPhone X: Works as expected, nothing special.",3,web,2026-06-10T00:00:00
+nova-0371,"NovaPhone X: Works as expected, nothing special.",1,support,2026-06-11T00:00:00
+nova-0372,NovaPhone X: Setup was easy and smooth.,1,app_store,2026-06-12T00:00:00
+nova-0373,NovaPhone X: Battery drains fast and I am disappointed.,1,web,2026-06-13T00:00:00
+nova-0374,NovaPhone X: I wish it had an offline mode.,4,web,2026-06-14T00:00:00
+nova-0375,"NovaPhone X: Works as expected, nothing special.",4,web,2026-06-15T00:00:00
+nova-0376,NovaPhone X: Battery drains fast and I am disappointed.,4,app_store,2026-06-16T00:00:00
+nova-0377,NovaPhone X: Excellent quality and very reliable.,3,support,2026-06-17T00:00:00
+nova-0378,NovaPhone X: Battery drains fast and I am disappointed.,5,app_store,2026-06-18T00:00:00
+nova-0379,"NovaPhone X: Works as expected, nothing special.",3,web,2026-06-19T00:00:00
+nova-0380,"NovaPhone X: Works as expected, nothing special.",5,app_store,2026-06-20T00:00:00
+nova-0381,NovaPhone X: Setup was easy and smooth.,2,web,2026-06-21T00:00:00
+nova-0382,NovaPhone X: Battery drains fast and I am disappointed.,2,web,2026-06-22T00:00:00
+nova-0383,NovaPhone X: Excellent quality and very reliable.,1,web,2026-06-23T00:00:00
+nova-0384,NovaPhone X: Setup was easy and smooth.,5,web,2026-06-24T00:00:00
+nova-0385,NovaPhone X: Battery drains fast and I am disappointed.,4,app_store,2026-06-25T00:00:00
+nova-0386,NovaPhone X: Excellent quality and very reliable.,3,support,2026-06-26T00:00:00
+nova-0387,NovaPhone X: Excellent quality and very reliable.,2,app_store,2026-06-27T00:00:00
+nova-0388,NovaPhone X: Bluetooth disconnects sometimes.,4,support,2026-06-28T00:00:00
+nova-0389,NovaPhone X: Bluetooth disconnects sometimes.,2,app_store,2026-06-29T00:00:00
+nova-0390,NovaPhone X: Battery drains fast and I am disappointed.,4,web,2026-06-30T00:00:00
+nova-0391,NovaPhone X: Setup was easy and smooth.,2,support,2026-07-01T00:00:00
+nova-0392,NovaPhone X: Setup was easy and smooth.,1,web,2026-07-02T00:00:00
+nova-0393,"NovaPhone X: Works as expected, nothing special.",3,support,2026-07-03T00:00:00
+nova-0394,"NovaPhone X: Works as expected, nothing special.",3,web,2026-07-04T00:00:00
+nova-0395,NovaPhone X: I wish it had an offline mode.,3,app_store,2026-07-05T00:00:00
+nova-0396,NovaPhone X: Bluetooth disconnects sometimes.,2,app_store,2026-07-06T00:00:00
+nova-0397,NovaPhone X: Battery drains fast and I am disappointed.,2,app_store,2026-07-07T00:00:00
+nova-0398,"NovaPhone X: Works as expected, nothing special.",5,app_store,2026-07-08T00:00:00
+nova-0399,"NovaPhone X: Works as expected, nothing special.",1,web,2026-07-09T00:00:00
+nova-0400,"NovaPhone X: Works as expected, nothing special.",2,support,2026-07-10T00:00:00
