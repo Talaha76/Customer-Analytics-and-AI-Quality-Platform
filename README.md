@@ -913,10 +913,9 @@ A known customer-intelligence improvement area is replacing overly generic TF-ID
 
 ---
 
-# Author
+# Authors)
 
-**Hamza Khan**  
-Computer Engineering student focused on software engineering, data systems, AI evaluation and analytics products.
+**Talaha Khan & Hamza Khan**  
 
 GitHub: https://github.com/Hamza102006
 
