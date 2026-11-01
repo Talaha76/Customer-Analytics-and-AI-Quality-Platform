@@ -914,9 +914,7 @@ A known customer-intelligence improvement area is replacing overly generic TF-ID
 
 # Authors)
 
-**Talaha Khan & Hamza Khan**  
-
-GitHub: https://github.com/Hamza102006
+**Talaha Khan**  
 
 ---
 
